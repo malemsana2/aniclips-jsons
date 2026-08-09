@@ -1,0 +1,80 @@
+{
+  "id": 152,
+  "slug": "bocchi_the_rock_",
+  "title": "BOCCHI THE ROCK!",
+  "title_english": "BOCCHI THE ROCK!",
+  "title_japanese": "Bocchi the Rock!",
+  "mal_id": 47917,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-HTDmeL4RGeJ4.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 5,
+  "visit_count": 683,
+  "download_count": 1032,
+  "is_featured": false,
+  "updated_at": "2026-06-05T14:13:26.263040",
+  "cold_backup": [],
+  "name": "bocchi_the_rock_",
+  "episodes": [
+    {
+      "id": 1762,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 1763,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 1764,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 1765,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 1766,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 1767,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 1768,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 1769,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 1770,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 1771,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 1772,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 1773,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

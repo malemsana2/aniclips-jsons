@@ -1,0 +1,85 @@
+{
+  "id": 166,
+  "slug": "violet_evergarden",
+  "title": "Violet Evergarden",
+  "title_english": "Violet Evergarden",
+  "title_japanese": "Violet Evergarden",
+  "mal_id": 33352,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21827-ubzq619ZA2E9.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 4,
+  "visit_count": 540,
+  "download_count": 792,
+  "is_featured": false,
+  "updated_at": "2026-06-14T14:33:00.537659",
+  "cold_backup": [],
+  "name": "violet_evergarden",
+  "episodes": [
+    {
+      "id": 2047,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2048,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2049,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2050,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2051,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2052,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2053,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2054,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2055,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2056,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2057,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2058,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 2059,
+      "number": 13,
+      "title": "Episode 13"
+    }
+  ]
+}

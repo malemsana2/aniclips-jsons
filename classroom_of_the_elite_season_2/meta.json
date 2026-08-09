@@ -1,0 +1,85 @@
+{
+  "id": 231,
+  "slug": "classroom_of_the_elite_season_2",
+  "title": "Classroom Of The Elite Season 2",
+  "title_english": "Classroom Of The Elite Season 2",
+  "title_japanese": "Classroom Of The Elite Season 2",
+  "mal_id": 245,
+  "poster_url": "https://a.storyblok.com/f/178900/1413x2000/7269083660/03610357ef4a76af4e984ed4bfc8680c1653890021_main.png/m/filters:quality(95)format(webp)",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 901,
+  "download_count": 829,
+  "is_featured": false,
+  "updated_at": "2026-07-09T16:39:29.332547",
+  "cold_backup": [],
+  "name": "classroom_of_the_elite_season_2",
+  "episodes": [
+    {
+      "id": 2794,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2795,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2796,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2797,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2798,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2799,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2800,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2801,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2802,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2803,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2804,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2805,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 2806,
+      "number": 13,
+      "title": "Episode 13"
+    }
+  ]
+}

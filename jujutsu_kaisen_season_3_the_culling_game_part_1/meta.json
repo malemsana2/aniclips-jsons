@@ -1,0 +1,80 @@
+{
+  "id": 78,
+  "slug": "jujutsu_kaisen_season_3_the_culling_game_part_1",
+  "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+  "title_english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+  "title_japanese": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+  "mal_id": 57658,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 14491,
+  "download_count": 21656,
+  "is_featured": false,
+  "updated_at": "2026-05-08T07:48:54.879936",
+  "cold_backup": [],
+  "name": "jujutsu_kaisen_season_3_the_culling_game_part_1",
+  "episodes": [
+    {
+      "id": 939,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 940,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 941,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 942,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 943,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 944,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 945,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 946,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 947,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 948,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 949,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 950,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 206,
+  "slug": "one_punch_man_season_3",
+  "title": "One-Punch Man Season 3",
+  "title_english": "One-Punch Man Season 3",
+  "title_japanese": "One Punch Man 3",
+  "mal_id": 52807,
+  "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3cWnCM73IvebuIdbTfSlj_44XdaB-bUK0c0ujCDIgQ&s=10",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 995,
+  "download_count": 1171,
+  "is_featured": false,
+  "updated_at": "2026-07-06T12:29:19.220754",
+  "cold_backup": [],
+  "name": "one_punch_man_season_3",
+  "episodes": [
+    {
+      "id": 2441,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2442,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2443,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2444,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2445,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2446,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2447,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2448,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2449,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2450,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2451,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2452,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

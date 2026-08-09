@@ -1,0 +1,25 @@
+{
+  "id": 232,
+  "slug": "weathering_with_you",
+  "title": "Weathering With You",
+  "title_english": "Weathering With You",
+  "title_japanese": "Tenki no Ko",
+  "mal_id": 38826,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106286-5COcpd0J9VbL.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 643,
+  "download_count": 930,
+  "is_featured": false,
+  "updated_at": "2026-07-10T15:51:07.516632",
+  "cold_backup": [],
+  "name": "weathering_with_you",
+  "episodes": [
+    {
+      "id": 2807,
+      "number": 1,
+      "title": "Episode 1"
+    }
+  ]
+}

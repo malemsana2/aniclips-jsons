@@ -1,0 +1,80 @@
+{
+  "id": 71,
+  "slug": "chainsaw_man",
+  "title": "Chainsaw Man",
+  "title_english": "Chainsaw Man",
+  "title_japanese": "Chainsaw Man",
+  "mal_id": 44511,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127230-DdP4vAdssLoz.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 6383,
+  "download_count": 5558,
+  "is_featured": true,
+  "updated_at": "2026-05-07T12:44:45.807236",
+  "cold_backup": [],
+  "name": "chainsaw_man",
+  "episodes": [
+    {
+      "id": 877,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 878,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 879,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 880,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 881,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 882,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 883,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 884,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 885,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 886,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 887,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 888,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

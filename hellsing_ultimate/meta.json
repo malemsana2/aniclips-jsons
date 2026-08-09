@@ -1,0 +1,70 @@
+{
+  "id": 170,
+  "slug": "hellsing_ultimate",
+  "title": "Hellsing Ultimate",
+  "title_english": "Hellsing Ultimate",
+  "title_japanese": "HELLSING OVA",
+  "mal_id": 777,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx777-F6547pSAR2Zd.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 4,
+  "visit_count": 411,
+  "download_count": 733,
+  "is_featured": false,
+  "updated_at": "2026-06-16T08:16:03.392302",
+  "cold_backup": [],
+  "name": "hellsing_ultimate",
+  "episodes": [
+    {
+      "id": 2095,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2096,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2097,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2098,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2099,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2100,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2101,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2102,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2103,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2104,
+      "number": 10,
+      "title": "Episode 10"
+    }
+  ]
+}

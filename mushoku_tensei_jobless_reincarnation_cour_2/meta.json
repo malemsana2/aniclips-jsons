@@ -1,0 +1,80 @@
+{
+  "id": 164,
+  "slug": "mushoku_tensei_jobless_reincarnation_cour_2",
+  "title": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+  "title_english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+  "title_japanese": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+  "mal_id": 45576,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127720-ADJgIrUVMdU9.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 2,
+  "visit_count": 1281,
+  "download_count": 1219,
+  "is_featured": false,
+  "updated_at": "2026-06-18T07:22:31.685371",
+  "cold_backup": [],
+  "name": "mushoku_tensei_jobless_reincarnation_cour_2",
+  "episodes": [
+    {
+      "id": 1865,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 1866,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 1867,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 1868,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 1869,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 1870,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 1871,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 1872,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 1873,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 1874,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 1875,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 1876,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

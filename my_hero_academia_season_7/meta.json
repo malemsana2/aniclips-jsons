@@ -1,0 +1,125 @@
+{
+  "id": 229,
+  "slug": "my_hero_academia_season_7",
+  "title": "My Hero Academia Season 7",
+  "title_english": "My Hero Academia Season 7",
+  "title_japanese": "Boku no Hero Academia 7",
+  "mal_id": 54789,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163139-JchZhUFlNTWU.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 1242,
+  "download_count": 911,
+  "is_featured": false,
+  "updated_at": "2026-07-13T15:29:03.407993",
+  "cold_backup": [],
+  "name": "my_hero_academia_season_7",
+  "episodes": [
+    {
+      "id": 2763,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2764,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2765,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2766,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2767,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2768,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2769,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2770,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2771,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2772,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2773,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2774,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 2775,
+      "number": 13,
+      "title": "Episode 13"
+    },
+    {
+      "id": 2776,
+      "number": 14,
+      "title": "Episode 14"
+    },
+    {
+      "id": 2777,
+      "number": 15,
+      "title": "Episode 15"
+    },
+    {
+      "id": 2778,
+      "number": 16,
+      "title": "Episode 16"
+    },
+    {
+      "id": 2779,
+      "number": 17,
+      "title": "Episode 17"
+    },
+    {
+      "id": 2780,
+      "number": 18,
+      "title": "Episode 18"
+    },
+    {
+      "id": 2781,
+      "number": 19,
+      "title": "Episode 19"
+    },
+    {
+      "id": 2782,
+      "number": 20,
+      "title": "Episode 20"
+    },
+    {
+      "id": 2783,
+      "number": 21,
+      "title": "Episode 21"
+    }
+  ]
+}

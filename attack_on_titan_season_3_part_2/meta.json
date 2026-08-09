@@ -1,0 +1,70 @@
+{
+  "id": 230,
+  "slug": "attack_on_titan_season_3_part_2",
+  "title": "Attack On Titan Season 3 Part 2",
+  "title_english": "Attack On Titan Season 3 Part 2",
+  "title_japanese": "Attack On Titan Season 3 Part 2",
+  "mal_id": 1703,
+  "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXB4vc8NKi17Ixh3MNK5R6tWMjCxJlblvDBbbsQc3kd7NK2EmejjIllU&s=10",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 2100,
+  "download_count": 1913,
+  "is_featured": false,
+  "updated_at": "2026-07-08T09:53:56.745435",
+  "cold_backup": [],
+  "name": "attack_on_titan_season_3_part_2",
+  "episodes": [
+    {
+      "id": 2784,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2785,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2786,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2787,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2788,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2789,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2790,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2791,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2792,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2793,
+      "number": 10,
+      "title": "Episode 10"
+    }
+  ]
+}

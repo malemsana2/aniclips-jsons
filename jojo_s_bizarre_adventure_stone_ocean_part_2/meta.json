@@ -1,0 +1,150 @@
+{
+  "id": 242,
+  "slug": "jojo_s_bizarre_adventure_stone_ocean_part_2",
+  "title": "JoJo's Bizarre Adventure: STONE OCEAN Part 2",
+  "title_english": "JoJo's Bizarre Adventure: STONE OCEAN Part 2",
+  "title_japanese": "JoJo's Bizarre Adventure: STONE OCEAN Part 2",
+  "mal_id": 42754,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146722-hiZU7M33fBhn.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": -1,
+  "visit_count": 429,
+  "download_count": 191,
+  "is_featured": false,
+  "updated_at": "2026-07-17T16:49:36.290106",
+  "cold_backup": [],
+  "name": "jojo_s_bizarre_adventure_stone_ocean_part_2",
+  "episodes": [
+    {
+      "id": 2858,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2859,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2860,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2861,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2862,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2863,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2864,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2865,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2866,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2867,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2868,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2869,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 2870,
+      "number": 13,
+      "title": "Episode 13"
+    },
+    {
+      "id": 2871,
+      "number": 14,
+      "title": "Episode 14"
+    },
+    {
+      "id": 2872,
+      "number": 15,
+      "title": "Episode 15"
+    },
+    {
+      "id": 2873,
+      "number": 16,
+      "title": "Episode 16"
+    },
+    {
+      "id": 2874,
+      "number": 17,
+      "title": "Episode 17"
+    },
+    {
+      "id": 2875,
+      "number": 18,
+      "title": "Episode 18"
+    },
+    {
+      "id": 2876,
+      "number": 19,
+      "title": "Episode 19"
+    },
+    {
+      "id": 2877,
+      "number": 20,
+      "title": "Episode 20"
+    },
+    {
+      "id": 2878,
+      "number": 21,
+      "title": "Episode 21"
+    },
+    {
+      "id": 2879,
+      "number": 22,
+      "title": "Episode 22"
+    },
+    {
+      "id": 2880,
+      "number": 23,
+      "title": "Episode 23"
+    },
+    {
+      "id": 2881,
+      "number": 24,
+      "title": "Episode 24"
+    },
+    {
+      "id": 2882,
+      "number": 25,
+      "title": "Episode 25"
+    },
+    {
+      "id": 2883,
+      "number": 26,
+      "title": "Episode 26"
+    }
+  ]
+}

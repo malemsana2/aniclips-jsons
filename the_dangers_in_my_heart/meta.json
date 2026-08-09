@@ -1,0 +1,80 @@
+{
+  "id": 211,
+  "slug": "the_dangers_in_my_heart",
+  "title": "The Dangers in My Heart",
+  "title_english": "The Dangers in My Heart",
+  "title_japanese": "Boku no Kokoro no Yabai Yatsu",
+  "mal_id": 52578,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153152-Xnwmx7wuoIWV.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 1,
+  "visit_count": 269,
+  "download_count": 235,
+  "is_featured": false,
+  "updated_at": "2026-07-06T13:13:35.011997",
+  "cold_backup": [],
+  "name": "the_dangers_in_my_heart",
+  "episodes": [
+    {
+      "id": 2506,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2507,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2508,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2509,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2510,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2511,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2512,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2513,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2514,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2515,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2516,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2517,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

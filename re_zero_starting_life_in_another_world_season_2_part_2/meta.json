@@ -1,0 +1,80 @@
+{
+  "id": 214,
+  "slug": "re_zero_starting_life_in_another_world_season_2_part_2",
+  "title": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+  "title_english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+  "title_japanese": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+  "mal_id": 42203,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119661-GDbUZxrZMz01.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 770,
+  "download_count": 369,
+  "is_featured": false,
+  "updated_at": "2026-07-10T15:47:21.846459",
+  "cold_backup": [],
+  "name": "re_zero_starting_life_in_another_world_season_2_part_2",
+  "episodes": [
+    {
+      "id": 2544,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2545,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2546,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2547,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2548,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2549,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2550,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2551,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2552,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2553,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2554,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2555,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

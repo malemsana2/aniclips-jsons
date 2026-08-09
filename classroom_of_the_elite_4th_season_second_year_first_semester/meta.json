@@ -1,0 +1,100 @@
+{
+  "id": 250,
+  "slug": "classroom_of_the_elite_4th_season_second_year_first_semester",
+  "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
+  "title_english": "Classroom of the Elite 4th Season: Second Year, First Semester",
+  "title_japanese": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
+  "mal_id": 59708,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 1151,
+  "download_count": 836,
+  "is_featured": false,
+  "updated_at": "2026-07-21T14:23:56.739093",
+  "cold_backup": [],
+  "name": "classroom_of_the_elite_4th_season_second_year_first_semester",
+  "episodes": [
+    {
+      "id": 2957,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2958,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2959,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2960,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2961,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2962,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2963,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2964,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2965,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2966,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2967,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2968,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 2969,
+      "number": 13,
+      "title": "Episode 13"
+    },
+    {
+      "id": 2970,
+      "number": 14,
+      "title": "Episode 14"
+    },
+    {
+      "id": 2971,
+      "number": 15,
+      "title": "Episode 15"
+    },
+    {
+      "id": 2972,
+      "number": 16,
+      "title": "Episode 16"
+    }
+  ]
+}

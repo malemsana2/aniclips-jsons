@@ -1,0 +1,80 @@
+{
+  "id": 60,
+  "slug": "solo_leveling",
+  "title": "Solo Leveling",
+  "title_english": "Solo Leveling",
+  "title_japanese": "Ore dake Level Up na Ken",
+  "mal_id": 52299,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-it355ZgzquUd.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 4265,
+  "download_count": 5656,
+  "is_featured": false,
+  "updated_at": "2026-05-04T01:48:09.777660",
+  "cold_backup": [],
+  "name": "solo_leveling",
+  "episodes": [
+    {
+      "id": 776,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 777,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 778,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 779,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 780,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 781,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 782,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 783,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 784,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 785,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 786,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 787,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

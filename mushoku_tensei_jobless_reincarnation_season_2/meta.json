@@ -1,0 +1,85 @@
+{
+  "id": 162,
+  "slug": "mushoku_tensei_jobless_reincarnation_season_2",
+  "title": "Mushoku Tensei: Jobless Reincarnation Season 2",
+  "title_english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+  "title_japanese": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+  "mal_id": 51179,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146065-IjirxRK26O03.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 4,
+  "visit_count": 1007,
+  "download_count": 823,
+  "is_featured": false,
+  "updated_at": "2026-06-15T13:14:33.041905",
+  "cold_backup": [],
+  "name": "mushoku_tensei_jobless_reincarnation_season_2",
+  "episodes": [
+    {
+      "id": 1840,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 1841,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 1842,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 1843,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 1844,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 1845,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 1846,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 1847,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 1848,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 1849,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 1850,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 1851,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 1852,
+      "number": 13,
+      "title": "Episode 13"
+    }
+  ]
+}

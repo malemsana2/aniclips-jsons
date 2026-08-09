@@ -1,0 +1,25 @@
+{
+  "id": 204,
+  "slug": "your_name",
+  "title": "Your Name",
+  "title_english": "Your Name",
+  "title_japanese": "Your Name",
+  "mal_id": 39275,
+  "poster_url": "https://m.media-amazon.com/images/I/91ckLZfJiBL._SL1500_.jpg",
+  "description": "Your Name (Kimi no Na Wa) is a critically acclaimed 2016 anime film directed by Makoto Shinkai. It is a sci-fi, romantic fantasy about two teenagers\u2014a rural girl and a Tokyo city boy\u2014who mysteriously swap bodies in their sleep and must race against time and a cosmic disaster to save each other.",
+  "status": "PUBLISHED",
+  "priority": 2,
+  "visit_count": 2551,
+  "download_count": 4726,
+  "is_featured": true,
+  "updated_at": "2026-07-13T03:06:44.933397",
+  "cold_backup": [],
+  "name": "your_name",
+  "episodes": [
+    {
+      "id": 2428,
+      "number": 1,
+      "title": "Episode 1"
+    }
+  ]
+}

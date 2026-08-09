@@ -1,0 +1,85 @@
+{
+  "id": 123,
+  "slug": "fire_force_season_3_part_2",
+  "title": "Fire Force Season 3 Part 2",
+  "title_english": "Fire Force Season 3 Part 2",
+  "title_japanese": "Enen no Shouboutai: San no Shou Part 2",
+  "mal_id": 59229,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179062-pbzYE1miZq61.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": -1,
+  "visit_count": 325,
+  "download_count": 261,
+  "is_featured": false,
+  "updated_at": "2026-06-29T12:40:26.429514",
+  "cold_backup": [],
+  "name": "fire_force_season_3_part_2",
+  "episodes": [
+    {
+      "id": 1553,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 1554,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 1555,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 1556,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 1557,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 1558,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 1559,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 1560,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 1561,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 1562,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 1563,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 1564,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 1565,
+      "number": 13,
+      "title": "Episode 13"
+    }
+  ]
+}

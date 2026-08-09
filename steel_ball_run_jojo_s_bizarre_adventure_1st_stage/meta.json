@@ -1,0 +1,25 @@
+{
+  "id": 220,
+  "slug": "steel_ball_run_jojo_s_bizarre_adventure_1st_stage",
+  "title": "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE",
+  "title_english": "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE",
+  "title_japanese": "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE",
+  "mal_id": 61469,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190327-riJNCFL7w9y4.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 317,
+  "download_count": 129,
+  "is_featured": false,
+  "updated_at": "2026-07-08T02:26:54.417009",
+  "cold_backup": [],
+  "name": "steel_ball_run_jojo_s_bizarre_adventure_1st_stage",
+  "episodes": [
+    {
+      "id": 2628,
+      "number": 1,
+      "title": "Episode 1"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 61,
+  "slug": "sakamoto_days_part_2",
+  "title": "SAKAMOTO DAYS Part 2",
+  "title_english": "SAKAMOTO DAYS Part 2",
+  "title_japanese": "SAKAMOTO DAYS Part 2",
+  "mal_id": 60285,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184237-OJAksU2fsIPx.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 520,
+  "download_count": 573,
+  "is_featured": false,
+  "updated_at": "2026-05-05T07:40:46.811002",
+  "cold_backup": [],
+  "name": "sakamoto_days_part_2",
+  "episodes": [
+    {
+      "id": 788,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 789,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 790,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 791,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 792,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 793,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 794,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 795,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 796,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 797,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 798,
+      "number": 11,
+      "title": "Episode 11"
+    }
+  ]
+}

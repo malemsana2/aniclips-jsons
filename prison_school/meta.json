@@ -1,0 +1,80 @@
+{
+  "id": 246,
+  "slug": "prison_school",
+  "title": "Prison School",
+  "title_english": "Prison School",
+  "title_japanese": "Prison School",
+  "mal_id": 30240,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20807-8nFoO0AUdGsy.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 3,
+  "visit_count": 421,
+  "download_count": 235,
+  "is_featured": false,
+  "updated_at": "2026-07-20T09:47:16.063391",
+  "cold_backup": [],
+  "name": "prison_school",
+  "episodes": [
+    {
+      "id": 2920,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2921,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2922,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2923,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2924,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2925,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2926,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2927,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2928,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2929,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2930,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2931,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

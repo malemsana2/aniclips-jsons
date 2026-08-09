@@ -1,0 +1,90 @@
+{
+  "id": 194,
+  "slug": "blue_lock_vs_u_20_japan",
+  "title": "Blue Lock vs U-20 Japan",
+  "title_english": "Blue Lock vs U-20 Japan",
+  "title_japanese": "Blue Lock vs U-20 Japan",
+  "mal_id": 3438,
+  "poster_url": "https://a.storyblok.com/f/178900/1064x1504/c7214069da/blue-lock-season-2-key-visual.png/m/filters:quality(95)format(webp)",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 2750,
+  "download_count": 3967,
+  "is_featured": false,
+  "updated_at": "2026-06-26T12:20:47.554099",
+  "cold_backup": [],
+  "name": "blue_lock_vs_u_20_japan",
+  "episodes": [
+    {
+      "id": 2350,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2351,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2352,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2353,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2354,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2355,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2356,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2357,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2358,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2359,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2360,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2361,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 2362,
+      "number": 13,
+      "title": "Episode 13"
+    },
+    {
+      "id": 2363,
+      "number": 14,
+      "title": "Episode 14"
+    }
+  ]
+}

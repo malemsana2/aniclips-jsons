@@ -1,0 +1,75 @@
+{
+  "id": 168,
+  "slug": "oshi_no_ko",
+  "title": "Oshi No Ko",
+  "title_english": "Oshi No Ko",
+  "title_japanese": "[Oshi no Ko]",
+  "mal_id": 52034,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-WqmmwZ4nMzAy.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 3,
+  "visit_count": 618,
+  "download_count": 988,
+  "is_featured": false,
+  "updated_at": "2026-06-17T14:47:24.324627",
+  "cold_backup": [],
+  "name": "oshi_no_ko",
+  "episodes": [
+    {
+      "id": 2071,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2072,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2073,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2074,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2075,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2076,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2077,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2078,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2079,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2080,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2081,
+      "number": 11,
+      "title": "Episode 11"
+    }
+  ]
+}

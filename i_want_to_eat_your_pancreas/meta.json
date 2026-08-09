@@ -1,0 +1,25 @@
+{
+  "id": 59,
+  "slug": "i_want_to_eat_your_pancreas",
+  "title": "I Want to Eat Your Pancreas",
+  "title_english": "I Want to Eat Your Pancreas",
+  "title_japanese": "Kimi no Suizou wo Tabetai",
+  "mal_id": 36098,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99750-pNyly9d3MEgV.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 2,
+  "visit_count": 2826,
+  "download_count": 4199,
+  "is_featured": false,
+  "updated_at": "2026-07-13T03:06:28.203223",
+  "cold_backup": [],
+  "name": "i_want_to_eat_your_pancreas",
+  "episodes": [
+    {
+      "id": 775,
+      "number": 1,
+      "title": "Episode 1"
+    }
+  ]
+}

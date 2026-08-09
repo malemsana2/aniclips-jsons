@@ -1,0 +1,85 @@
+{
+  "id": 213,
+  "slug": "re_zero_starting_life_in_another_world_season_2",
+  "title": "Re:ZERO - Season 2",
+  "title_english": "Re:ZERO -Starting Life in Another World- Season 2",
+  "title_japanese": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+  "mal_id": 39587,
+  "poster_url": "https://a.storyblok.com/f/178900/640x908/31128f84ed/ae642e82116589b128132c62322786381575973069_full.png/m/640x908",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 792,
+  "download_count": 828,
+  "is_featured": false,
+  "updated_at": "2026-07-07T00:26:26.736859",
+  "cold_backup": [],
+  "name": "re_zero_starting_life_in_another_world_season_2",
+  "episodes": [
+    {
+      "id": 2531,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2532,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2533,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2534,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2535,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2536,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2537,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2538,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2539,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2540,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2541,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2542,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 2543,
+      "number": 13,
+      "title": "Episode 13"
+    }
+  ]
+}

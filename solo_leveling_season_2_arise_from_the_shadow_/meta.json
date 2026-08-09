@@ -1,0 +1,85 @@
+{
+  "id": 69,
+  "slug": "solo_leveling_season_2_arise_from_the_shadow_",
+  "title": "Solo Leveling Season 2 -Arise from the Shadow-",
+  "title_english": "Solo Leveling Season 2 -Arise from the Shadow-",
+  "title_japanese": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+  "mal_id": 58567,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-9BDMjAZGEbq4.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 9097,
+  "download_count": 12720,
+  "is_featured": false,
+  "updated_at": "2026-05-05T08:56:32.755880",
+  "cold_backup": [],
+  "name": "solo_leveling_season_2_arise_from_the_shadow_",
+  "episodes": [
+    {
+      "id": 836,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 837,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 838,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 839,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 840,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 841,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 842,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 843,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 844,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 845,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 846,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 847,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 848,
+      "number": 13,
+      "title": "Episode 13"
+    }
+  ]
+}

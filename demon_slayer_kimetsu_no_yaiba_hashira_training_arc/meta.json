@@ -1,0 +1,60 @@
+{
+  "id": 101,
+  "slug": "demon_slayer_kimetsu_no_yaiba_hashira_training_arc",
+  "title": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+  "title_english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+  "title_japanese": "Kimetsu no Yaiba: Hashira Geiko-hen",
+  "mal_id": 55701,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166240-PBV7zukIHW7V.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 1,
+  "visit_count": 12450,
+  "download_count": 12465,
+  "is_featured": true,
+  "updated_at": "2026-05-16T03:43:37.359112",
+  "cold_backup": [],
+  "name": "demon_slayer_kimetsu_no_yaiba_hashira_training_arc",
+  "episodes": [
+    {
+      "id": 1200,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 1201,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 1202,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 1203,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 1204,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 1205,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 1206,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 1207,
+      "number": 8,
+      "title": "Episode 8"
+    }
+  ]
+}

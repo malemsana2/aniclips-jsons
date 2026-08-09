@@ -1,0 +1,80 @@
+{
+  "id": 196,
+  "slug": "spy_x_family",
+  "title": "SPY x FAMILY",
+  "title_english": "SPY x FAMILY",
+  "title_japanese": "SPY\u00d7FAMILY",
+  "mal_id": 50265,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-Kb6R5nYQfjmP.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 1,
+  "visit_count": 1933,
+  "download_count": 710,
+  "is_featured": false,
+  "updated_at": "2026-06-27T10:13:44.646666",
+  "cold_backup": [],
+  "name": "spy_x_family",
+  "episodes": [
+    {
+      "id": 2364,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2365,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2366,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2367,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2368,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2369,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2370,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2371,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2372,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2373,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2374,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2375,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

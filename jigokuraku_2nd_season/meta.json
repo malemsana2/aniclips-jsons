@@ -1,0 +1,80 @@
+{
+  "id": 234,
+  "slug": "jigokuraku_2nd_season",
+  "title": "Hell's Paradise S2",
+  "title_english": "Hell's Paradise Season 2",
+  "title_japanese": "\u5730\u7344\u697d\u7b2c\u4e8c\u671f",
+  "mal_id": 55825,
+  "poster_url": "https://cdn.myanimelist.net/images/anime/1772/154456l.jpg",
+  "description": "Seeking the key to the elixir of immortality, the group arrives at the fortress of the island's monstrous ruler, the \"Tensen.\" To survive and escape the island, cooperation becomes essential\u2014regardless of whether one is a condemned criminal or an executioner.\n\nMeanwhile, the shogunate orders additional landings on the island of the Immortal Realm, led by Shugen Yamada Asayemon. Among them are the Ishigakure clan, who share a past with Gabimaru.\n\nDesperate to find the elixir and escape the island, Gabimaru and his companions face the Tensen in a battle that escalates into an all-out confrontation between humans and immortals!\n\n(Source: Twin Engine, edited)",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 525,
+  "download_count": 561,
+  "is_featured": false,
+  "updated_at": "2026-07-11T19:04:08.362863",
+  "cold_backup": [],
+  "name": "jigokuraku_2nd_season",
+  "episodes": [
+    {
+      "id": 2821,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2822,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2823,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2824,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2825,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2826,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2827,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2828,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2829,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2830,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2831,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2832,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

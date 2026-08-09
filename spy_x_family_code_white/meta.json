@@ -1,0 +1,25 @@
+{
+  "id": 200,
+  "slug": "spy_x_family_code_white",
+  "title": "SPY x FAMILY CODE: White",
+  "title_english": "SPY x FAMILY CODE: White",
+  "title_japanese": "SPY\u00d7FAMILY CODE: White",
+  "mal_id": 53888,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158928-xqE0euKlQMnY.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 1168,
+  "download_count": 1432,
+  "is_featured": false,
+  "updated_at": "2026-06-30T13:31:02.788232",
+  "cold_backup": [],
+  "name": "spy_x_family_code_white",
+  "episodes": [
+    {
+      "id": 2414,
+      "number": 1,
+      "title": "Episode 1"
+    }
+  ]
+}

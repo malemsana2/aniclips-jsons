@@ -1,0 +1,130 @@
+{
+  "id": 40,
+  "slug": "hyouka",
+  "title": "Hyouka",
+  "title_english": "Hyouka",
+  "title_japanese": "Hyouka",
+  "mal_id": 12189,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12189-zj5AWUYO53Fv.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": -1,
+  "visit_count": 993,
+  "download_count": 1244,
+  "is_featured": false,
+  "updated_at": "2026-05-21T06:31:18.567596",
+  "cold_backup": [],
+  "name": "hyouka",
+  "episodes": [
+    {
+      "id": 536,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 537,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 538,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 539,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 540,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 541,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 542,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 543,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 544,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 545,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 546,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 547,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 548,
+      "number": 13,
+      "title": "Episode 13"
+    },
+    {
+      "id": 549,
+      "number": 14,
+      "title": "Episode 14"
+    },
+    {
+      "id": 550,
+      "number": 15,
+      "title": "Episode 15"
+    },
+    {
+      "id": 551,
+      "number": 16,
+      "title": "Episode 16"
+    },
+    {
+      "id": 552,
+      "number": 17,
+      "title": "Episode 17"
+    },
+    {
+      "id": 553,
+      "number": 18,
+      "title": "Episode 18"
+    },
+    {
+      "id": 554,
+      "number": 19,
+      "title": "Episode 19"
+    },
+    {
+      "id": 555,
+      "number": 20,
+      "title": "Episode 20"
+    },
+    {
+      "id": 556,
+      "number": 21,
+      "title": "Episode 21"
+    },
+    {
+      "id": 557,
+      "number": 22,
+      "title": "Episode 22"
+    }
+  ]
+}

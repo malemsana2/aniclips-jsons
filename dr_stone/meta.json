@@ -1,0 +1,140 @@
+{
+  "id": 244,
+  "slug": "dr_stone",
+  "title": "Dr. STONE",
+  "title_english": "Dr. STONE",
+  "title_japanese": "Dr. STONE",
+  "mal_id": 38691,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105333-GybuoSoOZfpH.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 2,
+  "visit_count": 1809,
+  "download_count": 307,
+  "is_featured": false,
+  "updated_at": "2026-07-20T06:11:30.140518",
+  "cold_backup": [],
+  "name": "dr_stone",
+  "episodes": [
+    {
+      "id": 2885,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2886,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2887,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2888,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2889,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2890,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2891,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2892,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2893,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2894,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2895,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2896,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 2897,
+      "number": 13,
+      "title": "Episode 13"
+    },
+    {
+      "id": 2898,
+      "number": 14,
+      "title": "Episode 14"
+    },
+    {
+      "id": 2899,
+      "number": 15,
+      "title": "Episode 15"
+    },
+    {
+      "id": 2900,
+      "number": 16,
+      "title": "Episode 16"
+    },
+    {
+      "id": 2901,
+      "number": 17,
+      "title": "Episode 17"
+    },
+    {
+      "id": 2902,
+      "number": 18,
+      "title": "Episode 18"
+    },
+    {
+      "id": 2903,
+      "number": 19,
+      "title": "Episode 19"
+    },
+    {
+      "id": 2904,
+      "number": 20,
+      "title": "Episode 20"
+    },
+    {
+      "id": 2905,
+      "number": 21,
+      "title": "Episode 21"
+    },
+    {
+      "id": 2906,
+      "number": 22,
+      "title": "Episode 22"
+    },
+    {
+      "id": 2907,
+      "number": 23,
+      "title": "Episode 23"
+    },
+    {
+      "id": 2908,
+      "number": 24,
+      "title": "Episode 24"
+    }
+  ]
+}

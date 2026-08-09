@@ -1,0 +1,25 @@
+{
+  "id": 22,
+  "slug": "hyouka_what_should_be_had",
+  "title": "Hyouka: What Should Be Had",
+  "title_english": "Hyouka: What Should Be Had",
+  "title_japanese": "Hyouka: Motsubeki Mono wa",
+  "mal_id": 13469,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13469-bbRQoSUgmf4T.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 491,
+  "download_count": 305,
+  "is_featured": false,
+  "updated_at": "2026-04-23T10:59:28.350047",
+  "cold_backup": [],
+  "name": "hyouka_what_should_be_had",
+  "episodes": [
+    {
+      "id": 273,
+      "number": 1,
+      "title": "Episode 1"
+    }
+  ]
+}

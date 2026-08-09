@@ -1,0 +1,25 @@
+{
+  "id": 210,
+  "slug": "chainsaw_man_the_movie_reze_arc",
+  "title": "Chainsaw Man \u2013  Reze Arc",
+  "title_english": "Chainsaw Man \u2013 The Movie: Reze Arc",
+  "title_japanese": "Chainsaw Man: Reze-hen",
+  "mal_id": 57555,
+  "poster_url": "https://m.media-amazon.com/images/M/MV5BODk5ZmMzMjQtMzkwYS00NjJmLTk5MDAtODIzNDdlYjY2MzVhXkEyXkFqcGc@._V1_.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 2,
+  "visit_count": 1506,
+  "download_count": 4125,
+  "is_featured": false,
+  "updated_at": "2026-07-05T12:23:05.295329",
+  "cold_backup": [],
+  "name": "chainsaw_man_the_movie_reze_arc",
+  "episodes": [
+    {
+      "id": 2505,
+      "number": 1,
+      "title": "Episode 1"
+    }
+  ]
+}

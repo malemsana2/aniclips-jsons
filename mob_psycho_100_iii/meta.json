@@ -1,0 +1,80 @@
+{
+  "id": 105,
+  "slug": "mob_psycho_100_iii",
+  "title": "Mob Psycho 100 III",
+  "title_english": "Mob Psycho 100 III",
+  "title_japanese": "Mob Psycho 100 III",
+  "mal_id": 50172,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140439-bPKmhe1wNxc9.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": -1,
+  "visit_count": 305,
+  "download_count": 429,
+  "is_featured": false,
+  "updated_at": "2026-05-15T06:00:03.708501",
+  "cold_backup": [],
+  "name": "mob_psycho_100_iii",
+  "episodes": [
+    {
+      "id": 1241,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 1242,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 1243,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 1244,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 1245,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 1246,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 1247,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 1248,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 1249,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 1250,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 1251,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 1252,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

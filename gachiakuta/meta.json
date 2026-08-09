@@ -1,0 +1,140 @@
+{
+  "id": 79,
+  "slug": "gachiakuta",
+  "title": "Gachiakuta",
+  "title_english": "Gachiakuta",
+  "title_japanese": "Gachiakuta",
+  "mal_id": 59062,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178025-cWJKEsZynkil.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": -1,
+  "visit_count": 1113,
+  "download_count": 2460,
+  "is_featured": false,
+  "updated_at": "2026-05-09T02:29:43.169017",
+  "cold_backup": [],
+  "name": "gachiakuta",
+  "episodes": [
+    {
+      "id": 951,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 952,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 953,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 954,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 955,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 956,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 957,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 958,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 959,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 960,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 961,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 962,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 963,
+      "number": 13,
+      "title": "Episode 13"
+    },
+    {
+      "id": 964,
+      "number": 14,
+      "title": "Episode 14"
+    },
+    {
+      "id": 965,
+      "number": 15,
+      "title": "Episode 15"
+    },
+    {
+      "id": 966,
+      "number": 16,
+      "title": "Episode 16"
+    },
+    {
+      "id": 967,
+      "number": 17,
+      "title": "Episode 17"
+    },
+    {
+      "id": 968,
+      "number": 18,
+      "title": "Episode 18"
+    },
+    {
+      "id": 969,
+      "number": 19,
+      "title": "Episode 19"
+    },
+    {
+      "id": 970,
+      "number": 20,
+      "title": "Episode 20"
+    },
+    {
+      "id": 971,
+      "number": 21,
+      "title": "Episode 21"
+    },
+    {
+      "id": 972,
+      "number": 22,
+      "title": "Episode 22"
+    },
+    {
+      "id": 973,
+      "number": 23,
+      "title": "Episode 23"
+    },
+    {
+      "id": 974,
+      "number": 24,
+      "title": "Episode 24"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 176,
+  "slug": "jujutsu_kaisen_0",
+  "title": "JUJUTSU KAISEN 0",
+  "title_english": "JUJUTSU KAISEN 0",
+  "title_japanese": "Jujutsu Kaisen 0",
+  "mal_id": 48561,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131573-rpl82vDEDRm6.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 4,
+  "visit_count": 2199,
+  "download_count": 2040,
+  "is_featured": false,
+  "updated_at": "2026-06-16T17:27:00.193646",
+  "cold_backup": [],
+  "name": "jujutsu_kaisen_0",
+  "episodes": [
+    {
+      "id": 2183,
+      "number": 1,
+      "title": "Episode 1"
+    }
+  ]
+}

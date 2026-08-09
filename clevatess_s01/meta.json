@@ -1,0 +1,80 @@
+{
+  "id": 240,
+  "slug": "clevatess_s01",
+  "title": "Clevatess S01",
+  "title_english": "Clevatess S01",
+  "title_japanese": "Clevatess S01",
+  "mal_id": 30095,
+  "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWPwoz5IzHqS1wWSfxC1sdXYnfmc_HBsGPONs3SS9biw&s=10",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 189,
+  "download_count": 130,
+  "is_featured": false,
+  "updated_at": "2026-07-16T14:33:24.919543",
+  "cold_backup": [],
+  "name": "clevatess_s01",
+  "episodes": [
+    {
+      "id": 2845,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2846,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2847,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2848,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2849,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2850,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2851,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2852,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2853,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2854,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2855,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2856,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

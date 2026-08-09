@@ -1,0 +1,80 @@
+{
+  "id": 57,
+  "slug": "alya_sometimes_hides_her_feelings_in_russian",
+  "title": "Alya Sometimes Hides Her Feelings in Russian",
+  "title_english": "Alya Sometimes Hides Her Feelings in Russian",
+  "title_japanese": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
+  "mal_id": 54744,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162804-TBeptcAfvqTd.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 2635,
+  "download_count": 3553,
+  "is_featured": false,
+  "updated_at": "2026-06-24T08:24:00.177816",
+  "cold_backup": [],
+  "name": "alya_sometimes_hides_her_feelings_in_russian",
+  "episodes": [
+    {
+      "id": 752,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 753,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 754,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 755,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 756,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 757,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 758,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 759,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 760,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 761,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 762,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 763,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

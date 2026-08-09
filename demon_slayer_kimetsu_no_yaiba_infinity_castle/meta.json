@@ -1,0 +1,25 @@
+{
+  "id": 140,
+  "slug": "demon_slayer_kimetsu_no_yaiba_infinity_castle",
+  "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+  "title_english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+  "title_japanese": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
+  "mal_id": 59192,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178788-zm3gtpB9TpRt.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 5,
+  "visit_count": 15679,
+  "download_count": 26723,
+  "is_featured": false,
+  "updated_at": "2026-05-29T15:59:44.170140",
+  "cold_backup": [],
+  "name": "demon_slayer_kimetsu_no_yaiba_infinity_castle",
+  "episodes": [
+    {
+      "id": 1691,
+      "number": 1,
+      "title": "Episode 1"
+    }
+  ]
+}

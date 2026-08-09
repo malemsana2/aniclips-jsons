@@ -1,0 +1,75 @@
+{
+  "id": 100,
+  "slug": "demon_slayer_kimetsu_no_yaiba_swordsmith_village_arc",
+  "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+  "title_english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+  "title_japanese": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+  "mal_id": 51019,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145139-rRimpHGWLhym.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": -1,
+  "visit_count": 2944,
+  "download_count": 4569,
+  "is_featured": false,
+  "updated_at": "2026-05-14T05:18:39.094408",
+  "cold_backup": [],
+  "name": "demon_slayer_kimetsu_no_yaiba_swordsmith_village_arc",
+  "episodes": [
+    {
+      "id": 1189,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 1190,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 1191,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 1192,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 1193,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 1194,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 1195,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 1196,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 1197,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 1198,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 1199,
+      "number": 11,
+      "title": "Episode 11"
+    }
+  ]
+}

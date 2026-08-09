@@ -1,0 +1,145 @@
+{
+  "id": 106,
+  "slug": "re_zero_starting_life_in_another_world_",
+  "title": "Re:ZERO -Starting Life in Another World-",
+  "title_english": "Re:ZERO -Starting Life in Another World-",
+  "title_japanese": "Re:Zero kara Hajimeru Isekai Seikatsu",
+  "mal_id": 31240,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-wRVUrGxpvIQQ.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 2,
+  "visit_count": 1758,
+  "download_count": 2550,
+  "is_featured": false,
+  "updated_at": "2026-05-17T06:19:05.677396",
+  "cold_backup": [],
+  "name": "re_zero_starting_life_in_another_world_",
+  "episodes": [
+    {
+      "id": 1253,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 1254,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 1255,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 1256,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 1257,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 1258,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 1259,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 1260,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 1261,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 1262,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 1263,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 1264,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 1265,
+      "number": 13,
+      "title": "Episode 13"
+    },
+    {
+      "id": 1266,
+      "number": 14,
+      "title": "Episode 14"
+    },
+    {
+      "id": 1267,
+      "number": 15,
+      "title": "Episode 15"
+    },
+    {
+      "id": 1268,
+      "number": 16,
+      "title": "Episode 16"
+    },
+    {
+      "id": 1269,
+      "number": 17,
+      "title": "Episode 17"
+    },
+    {
+      "id": 1270,
+      "number": 18,
+      "title": "Episode 18"
+    },
+    {
+      "id": 1271,
+      "number": 19,
+      "title": "Episode 19"
+    },
+    {
+      "id": 1272,
+      "number": 20,
+      "title": "Episode 20"
+    },
+    {
+      "id": 1273,
+      "number": 21,
+      "title": "Episode 21"
+    },
+    {
+      "id": 1274,
+      "number": 22,
+      "title": "Episode 22"
+    },
+    {
+      "id": 1275,
+      "number": 23,
+      "title": "Episode 23"
+    },
+    {
+      "id": 1276,
+      "number": 24,
+      "title": "Episode 24"
+    },
+    {
+      "id": 1277,
+      "number": 25,
+      "title": "Episode 25"
+    }
+  ]
+}

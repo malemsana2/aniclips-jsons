@@ -1,0 +1,80 @@
+{
+  "id": 221,
+  "slug": "jojo_s_bizarre_adventure_stone_ocean",
+  "title": "JoJo's Bizarre Adventure: STONE OCEAN",
+  "title_english": "JoJo's Bizarre Adventure: STONE OCEAN",
+  "title_japanese": "JoJo no Kimyou na Bouken: Stone Ocean",
+  "mal_id": 48661,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131942-rermlZ9lplHX.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 0,
+  "visit_count": 451,
+  "download_count": 131,
+  "is_featured": false,
+  "updated_at": "2026-07-24T07:34:01.119719",
+  "cold_backup": [],
+  "name": "jojo_s_bizarre_adventure_stone_ocean",
+  "episodes": [
+    {
+      "id": 2629,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 2630,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 2631,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 2632,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 2633,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 2634,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 2635,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 2636,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 2637,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 2638,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 2639,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 2640,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

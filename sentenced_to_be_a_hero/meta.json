@@ -1,0 +1,80 @@
+{
+  "id": 253,
+  "slug": "sentenced_to_be_a_hero",
+  "title": "Sentenced to Be a Hero",
+  "title_english": "Sentenced to Be a Hero",
+  "title_japanese": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+  "mal_id": 56009,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167152-O1pm6DWwifBD.jpg",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 1,
+  "visit_count": 569,
+  "download_count": 257,
+  "is_featured": false,
+  "updated_at": "2026-07-31T01:33:14.103204",
+  "cold_backup": [],
+  "name": "sentenced_to_be_a_hero",
+  "episodes": [
+    {
+      "id": 3001,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 3002,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 3003,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 3004,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 3005,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 3006,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 3007,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 3008,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 3009,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 3010,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 3011,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 3012,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}

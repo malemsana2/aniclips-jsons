@@ -1,0 +1,140 @@
+{
+  "id": 121,
+  "slug": "fire_force_season_2",
+  "title": "Fire Force Season 2",
+  "title_english": "Fire Force Season 2",
+  "title_japanese": "Enen no Shouboutai: Ni no Shou",
+  "mal_id": 40956,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114236-wfQOWF0Ii3h2.png",
+  "description": "",
+  "status": "PUBLISHED",
+  "priority": 5,
+  "visit_count": 236,
+  "download_count": 210,
+  "is_featured": false,
+  "updated_at": "2026-06-17T16:40:03.916540",
+  "cold_backup": [],
+  "name": "fire_force_season_2",
+  "episodes": [
+    {
+      "id": 1517,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 1518,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 1519,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 1520,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 1521,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 1522,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 1523,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 1524,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 1525,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 1526,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 1527,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 1528,
+      "number": 12,
+      "title": "Episode 12"
+    },
+    {
+      "id": 1529,
+      "number": 13,
+      "title": "Episode 13"
+    },
+    {
+      "id": 1530,
+      "number": 14,
+      "title": "Episode 14"
+    },
+    {
+      "id": 1531,
+      "number": 15,
+      "title": "Episode 15"
+    },
+    {
+      "id": 1532,
+      "number": 16,
+      "title": "Episode 16"
+    },
+    {
+      "id": 1533,
+      "number": 17,
+      "title": "Episode 17"
+    },
+    {
+      "id": 1534,
+      "number": 18,
+      "title": "Episode 18"
+    },
+    {
+      "id": 1535,
+      "number": 19,
+      "title": "Episode 19"
+    },
+    {
+      "id": 1536,
+      "number": 20,
+      "title": "Episode 20"
+    },
+    {
+      "id": 1537,
+      "number": 21,
+      "title": "Episode 21"
+    },
+    {
+      "id": 1538,
+      "number": 22,
+      "title": "Episode 22"
+    },
+    {
+      "id": 1539,
+      "number": 23,
+      "title": "Episode 23"
+    },
+    {
+      "id": 1540,
+      "number": 24,
+      "title": "Episode 24"
+    }
+  ]
+}
