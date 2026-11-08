@@ -1,0 +1,80 @@
+{
+  "id": 262,
+  "slug": "bungo_stray_dogs_wan_2",
+  "title": "Bungo Stray Dogs WAN! 2",
+  "title_english": "Bungo Stray Dogs WAN! 2",
+  "title_japanese": "Bungou Stray Dogs Wan! 2",
+  "mal_id": 62883,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201667-oqaW97DQ7HUj.jpg",
+  "description": "",
+  "status": "PROCESSING",
+  "priority": 3,
+  "visit_count": 0,
+  "download_count": 0,
+  "is_featured": false,
+  "updated_at": "2026-11-08T09:55:03.632Z",
+  "cold_backup": [],
+  "name": "bungo_stray_dogs_wan_2",
+  "episodes": [
+    {
+      "id": 3089,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 3090,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 3091,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 3092,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 3093,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 3094,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 3095,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 3096,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 3097,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 3098,
+      "number": 10,
+      "title": "Episode 10"
+    },
+    {
+      "id": 3099,
+      "number": 11,
+      "title": "Episode 11"
+    },
+    {
+      "id": 3100,
+      "number": 12,
+      "title": "Episode 12"
+    }
+  ]
+}
