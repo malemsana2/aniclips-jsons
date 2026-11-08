@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "id": "62883-2-0-10000-b4abac85",
+    "start": 0,
+    "end": 10000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-0-10000-b4abac85_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-0-10000-b4abac85_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-0-10000-b4abac85_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-0-10000-b4abac85.ebp"
+    }
+  },
+  {
+    "id": "62883-2-10000-20000-a04fdc57",
+    "start": 10000,
+    "end": 20000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-10000-20000-a04fdc57_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-10000-20000-a04fdc57_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-10000-20000-a04fdc57_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-10000-20000-a04fdc57.ebp"
+    }
+  },
+  {
+    "id": "62883-2-20000-30000-15819468",
+    "start": 20000,
+    "end": 30000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-20000-30000-15819468_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-20000-30000-15819468_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-20000-30000-15819468_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-20000-30000-15819468.ebp"
+    }
+  },
+  {
+    "id": "62883-2-30000-40000-ef651ff6",
+    "start": 30000,
+    "end": 40000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-30000-40000-ef651ff6_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-30000-40000-ef651ff6_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-30000-40000-ef651ff6_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-30000-40000-ef651ff6.ebp"
+    }
+  },
+  {
+    "id": "62883-2-40000-50000-c24ef10d",
+    "start": 40000,
+    "end": 50000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-40000-50000-c24ef10d_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-40000-50000-c24ef10d_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-40000-50000-c24ef10d_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-40000-50000-c24ef10d.ebp"
+    }
+  },
+  {
+    "id": "62883-2-50000-60000-66529f56",
+    "start": 50000,
+    "end": 60000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-50000-60000-66529f56_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-50000-60000-66529f56_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-50000-60000-66529f56_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-50000-60000-66529f56.ebp"
+    }
+  },
+  {
+    "id": "62883-2-60000-70000-c1e1352d",
+    "start": 60000,
+    "end": 70000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-60000-70000-c1e1352d_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-60000-70000-c1e1352d_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-60000-70000-c1e1352d_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-60000-70000-c1e1352d.ebp"
+    }
+  },
+  {
+    "id": "62883-2-70000-80000-ab45a79b",
+    "start": 70000,
+    "end": 80000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-70000-80000-ab45a79b_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-70000-80000-ab45a79b_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-70000-80000-ab45a79b_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-70000-80000-ab45a79b.ebp"
+    }
+  },
+  {
+    "id": "62883-2-80000-90000-8ae168b5",
+    "start": 80000,
+    "end": 90000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-80000-90000-8ae168b5_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-80000-90000-8ae168b5_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-80000-90000-8ae168b5_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-80000-90000-8ae168b5.ebp"
+    }
+  },
+  {
+    "id": "62883-2-90000-100000-d170fc9f",
+    "start": 90000,
+    "end": 100000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-90000-100000-d170fc9f_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-90000-100000-d170fc9f_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-90000-100000-d170fc9f_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-90000-100000-d170fc9f.ebp"
+    }
+  },
+  {
+    "id": "62883-2-100000-110000-939d89d8",
+    "start": 100000,
+    "end": 110000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-100000-110000-939d89d8_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-100000-110000-939d89d8_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-100000-110000-939d89d8_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-100000-110000-939d89d8.ebp"
+    }
+  },
+  {
+    "id": "62883-2-110000-120000-0ffb6940",
+    "start": 110000,
+    "end": 120000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-110000-120000-0ffb6940_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-110000-120000-0ffb6940_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-110000-120000-0ffb6940_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-110000-120000-0ffb6940.ebp"
+    }
+  },
+  {
+    "id": "62883-2-120000-130000-ff5cc7ed",
+    "start": 120000,
+    "end": 130000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-120000-130000-ff5cc7ed_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-120000-130000-ff5cc7ed_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-120000-130000-ff5cc7ed_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-120000-130000-ff5cc7ed.ebp"
+    }
+  },
+  {
+    "id": "62883-2-130000-140000-5455d916",
+    "start": 130000,
+    "end": 140000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-130000-140000-5455d916_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-130000-140000-5455d916_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-130000-140000-5455d916_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-130000-140000-5455d916.ebp"
+    }
+  },
+  {
+    "id": "62883-2-140000-150000-47892f59",
+    "start": 140000,
+    "end": 150000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-140000-150000-47892f59_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-140000-150000-47892f59_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-140000-150000-47892f59_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-140000-150000-47892f59.ebp"
+    }
+  },
+  {
+    "id": "62883-2-150000-160000-bf16cad7",
+    "start": 150000,
+    "end": 160000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-150000-160000-bf16cad7_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-150000-160000-bf16cad7_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-150000-160000-bf16cad7_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-150000-160000-bf16cad7.ebp"
+    }
+  },
+  {
+    "id": "62883-2-160000-170000-58bd92dc",
+    "start": 160000,
+    "end": 170000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-160000-170000-58bd92dc_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-160000-170000-58bd92dc_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-160000-170000-58bd92dc_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-160000-170000-58bd92dc.ebp"
+    }
+  },
+  {
+    "id": "62883-2-170000-180000-ee6c0575",
+    "start": 170000,
+    "end": 180000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-170000-180000-ee6c0575_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-170000-180000-ee6c0575_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-170000-180000-ee6c0575_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-170000-180000-ee6c0575.ebp"
+    }
+  },
+  {
+    "id": "62883-2-180000-190000-8f352206",
+    "start": 180000,
+    "end": 190000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-180000-190000-8f352206_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-180000-190000-8f352206_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-180000-190000-8f352206_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-180000-190000-8f352206.ebp"
+    }
+  },
+  {
+    "id": "62883-2-190000-200000-56cb64bb",
+    "start": 190000,
+    "end": 200000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-190000-200000-56cb64bb_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-190000-200000-56cb64bb_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-190000-200000-56cb64bb_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-190000-200000-56cb64bb.ebp"
+    }
+  },
+  {
+    "id": "62883-2-200000-210000-938cd1b8",
+    "start": 200000,
+    "end": 210000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-200000-210000-938cd1b8_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-200000-210000-938cd1b8_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-200000-210000-938cd1b8_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-200000-210000-938cd1b8.ebp"
+    }
+  },
+  {
+    "id": "62883-2-210000-220000-ae8c5f8e",
+    "start": 210000,
+    "end": 220000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-210000-220000-ae8c5f8e_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-210000-220000-ae8c5f8e_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-210000-220000-ae8c5f8e_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-210000-220000-ae8c5f8e.ebp"
+    }
+  },
+  {
+    "id": "62883-2-220000-230000-b6a68d94",
+    "start": 220000,
+    "end": 230000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-220000-230000-b6a68d94_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-220000-230000-b6a68d94_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-220000-230000-b6a68d94_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-220000-230000-b6a68d94.ebp"
+    }
+  },
+  {
+    "id": "62883-2-230000-240000-634f763a",
+    "start": 230000,
+    "end": 240000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-230000-240000-634f763a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-230000-240000-634f763a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-230000-240000-634f763a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-230000-240000-634f763a.ebp"
+    }
+  },
+  {
+    "id": "62883-2-240000-250000-e81dd153",
+    "start": 240000,
+    "end": 250000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-240000-250000-e81dd153_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-240000-250000-e81dd153_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-240000-250000-e81dd153_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-240000-250000-e81dd153.ebp"
+    }
+  },
+  {
+    "id": "62883-2-250000-260000-39a44910",
+    "start": 250000,
+    "end": 260000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-250000-260000-39a44910_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-250000-260000-39a44910_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-250000-260000-39a44910_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-250000-260000-39a44910.ebp"
+    }
+  },
+  {
+    "id": "62883-2-260000-270000-ff5d81ac",
+    "start": 260000,
+    "end": 270000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-260000-270000-ff5d81ac_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-260000-270000-ff5d81ac_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-260000-270000-ff5d81ac_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-260000-270000-ff5d81ac.ebp"
+    }
+  },
+  {
+    "id": "62883-2-270000-280000-04bf1b4e",
+    "start": 270000,
+    "end": 280000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-270000-280000-04bf1b4e_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-270000-280000-04bf1b4e_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-270000-280000-04bf1b4e_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-270000-280000-04bf1b4e.ebp"
+    }
+  },
+  {
+    "id": "62883-2-280000-290000-a5b56308",
+    "start": 280000,
+    "end": 290000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-280000-290000-a5b56308_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-280000-290000-a5b56308_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-280000-290000-a5b56308_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-280000-290000-a5b56308.ebp"
+    }
+  },
+  {
+    "id": "62883-2-290000-300000-656a1f3b",
+    "start": 290000,
+    "end": 300000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-290000-300000-656a1f3b_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-290000-300000-656a1f3b_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-290000-300000-656a1f3b_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-290000-300000-656a1f3b.ebp"
+    }
+  },
+  {
+    "id": "62883-2-300000-310000-7b729421",
+    "start": 300000,
+    "end": 310000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-300000-310000-7b729421_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-300000-310000-7b729421_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-300000-310000-7b729421_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-300000-310000-7b729421.ebp"
+    }
+  },
+  {
+    "id": "62883-2-310000-320000-0d370c0e",
+    "start": 310000,
+    "end": 320000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-310000-320000-0d370c0e_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-310000-320000-0d370c0e_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-310000-320000-0d370c0e_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-310000-320000-0d370c0e.ebp"
+    }
+  },
+  {
+    "id": "62883-2-320000-330000-ede11547",
+    "start": 320000,
+    "end": 330000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-320000-330000-ede11547_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-320000-330000-ede11547_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-320000-330000-ede11547_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-320000-330000-ede11547.ebp"
+    }
+  },
+  {
+    "id": "62883-2-330000-340000-2e87c59d",
+    "start": 330000,
+    "end": 340000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-330000-340000-2e87c59d_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-330000-340000-2e87c59d_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-330000-340000-2e87c59d_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-330000-340000-2e87c59d.ebp"
+    }
+  },
+  {
+    "id": "62883-2-340000-350000-21743af1",
+    "start": 340000,
+    "end": 350000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-340000-350000-21743af1_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-340000-350000-21743af1_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-340000-350000-21743af1_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004328@main/bungo_stray_dogs_wan_2/ep_2/62883-2-340000-350000-21743af1.ebp"
+    }
+  }
+]
