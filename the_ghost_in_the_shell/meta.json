@@ -1,0 +1,70 @@
+{
+  "id": 263,
+  "slug": "the_ghost_in_the_shell",
+  "title": "THE GHOST IN THE SHELL",
+  "title_english": "THE GHOST IN THE SHELL",
+  "title_japanese": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
+  "mal_id": 58929,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177699-VHMezCGf48nM.jpg",
+  "description": "",
+  "status": "PROCESSING",
+  "priority": 3,
+  "visit_count": 5,
+  "download_count": 0,
+  "is_featured": false,
+  "updated_at": "2026-11-08T14:05:10.777Z",
+  "cold_backup": [],
+  "name": "the_ghost_in_the_shell",
+  "episodes": [
+    {
+      "id": 3101,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 3102,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 3103,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 3104,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 3105,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 3106,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 3107,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 3108,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 3109,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 3110,
+      "number": 10,
+      "title": "Episode 10"
+    }
+  ]
+}

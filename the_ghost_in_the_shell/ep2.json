@@ -1,0 +1,794 @@
+[
+  {
+    "id": "58929-2-0-10000-0d55c9f2",
+    "start": 0,
+    "end": 10000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-0-10000-0d55c9f2_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-0-10000-0d55c9f2_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-0-10000-0d55c9f2_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-0-10000-0d55c9f2.ebp"
+    }
+  },
+  {
+    "id": "58929-2-10000-20000-5fe0dab8",
+    "start": 10000,
+    "end": 20000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-10000-20000-5fe0dab8_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-10000-20000-5fe0dab8_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-10000-20000-5fe0dab8_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-10000-20000-5fe0dab8.ebp"
+    }
+  },
+  {
+    "id": "58929-2-20000-30000-b56b064e",
+    "start": 20000,
+    "end": 30000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-20000-30000-b56b064e_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-20000-30000-b56b064e_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-20000-30000-b56b064e_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-20000-30000-b56b064e.ebp"
+    }
+  },
+  {
+    "id": "58929-2-30000-40000-bbb9cd01",
+    "start": 30000,
+    "end": 40000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-30000-40000-bbb9cd01_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-30000-40000-bbb9cd01_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-30000-40000-bbb9cd01_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-30000-40000-bbb9cd01.ebp"
+    }
+  },
+  {
+    "id": "58929-2-40000-50000-749e6eb2",
+    "start": 40000,
+    "end": 50000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-40000-50000-749e6eb2_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-40000-50000-749e6eb2_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-40000-50000-749e6eb2_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-40000-50000-749e6eb2.ebp"
+    }
+  },
+  {
+    "id": "58929-2-50000-60000-c644b5a0",
+    "start": 50000,
+    "end": 60000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-50000-60000-c644b5a0_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-50000-60000-c644b5a0_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-50000-60000-c644b5a0_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-50000-60000-c644b5a0.ebp"
+    }
+  },
+  {
+    "id": "58929-2-60000-70000-945c1a24",
+    "start": 60000,
+    "end": 70000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-60000-70000-945c1a24_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-60000-70000-945c1a24_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-60000-70000-945c1a24_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-60000-70000-945c1a24.ebp"
+    }
+  },
+  {
+    "id": "58929-2-70000-80000-287118b1",
+    "start": 70000,
+    "end": 80000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-70000-80000-287118b1_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-70000-80000-287118b1_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-70000-80000-287118b1_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-70000-80000-287118b1.ebp"
+    }
+  },
+  {
+    "id": "58929-2-80000-90000-1a0bd11d",
+    "start": 80000,
+    "end": 90000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-80000-90000-1a0bd11d_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-80000-90000-1a0bd11d_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-80000-90000-1a0bd11d_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-80000-90000-1a0bd11d.ebp"
+    }
+  },
+  {
+    "id": "58929-2-90000-100000-e6d51a7f",
+    "start": 90000,
+    "end": 100000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-90000-100000-e6d51a7f_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-90000-100000-e6d51a7f_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-90000-100000-e6d51a7f_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-90000-100000-e6d51a7f.ebp"
+    }
+  },
+  {
+    "id": "58929-2-100000-110000-10af74a6",
+    "start": 100000,
+    "end": 110000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-100000-110000-10af74a6_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-100000-110000-10af74a6_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-100000-110000-10af74a6_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-100000-110000-10af74a6.ebp"
+    }
+  },
+  {
+    "id": "58929-2-110000-120000-a6ae011a",
+    "start": 110000,
+    "end": 120000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-110000-120000-a6ae011a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-110000-120000-a6ae011a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-110000-120000-a6ae011a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-110000-120000-a6ae011a.ebp"
+    }
+  },
+  {
+    "id": "58929-2-120000-130000-45e66e86",
+    "start": 120000,
+    "end": 130000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-120000-130000-45e66e86_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-120000-130000-45e66e86_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-120000-130000-45e66e86_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-120000-130000-45e66e86.ebp"
+    }
+  },
+  {
+    "id": "58929-2-130000-140000-e383e454",
+    "start": 130000,
+    "end": 140000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-130000-140000-e383e454_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-130000-140000-e383e454_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-130000-140000-e383e454_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-130000-140000-e383e454.ebp"
+    }
+  },
+  {
+    "id": "58929-2-140000-150000-cefee04b",
+    "start": 140000,
+    "end": 150000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-140000-150000-cefee04b_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-140000-150000-cefee04b_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-140000-150000-cefee04b_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-140000-150000-cefee04b.ebp"
+    }
+  },
+  {
+    "id": "58929-2-150000-160000-be902754",
+    "start": 150000,
+    "end": 160000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-150000-160000-be902754_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-150000-160000-be902754_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-150000-160000-be902754_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-150000-160000-be902754.ebp"
+    }
+  },
+  {
+    "id": "58929-2-160000-170000-cc0e4fde",
+    "start": 160000,
+    "end": 170000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-160000-170000-cc0e4fde_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-160000-170000-cc0e4fde_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-160000-170000-cc0e4fde_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-160000-170000-cc0e4fde.ebp"
+    }
+  },
+  {
+    "id": "58929-2-170000-180000-9cd6040c",
+    "start": 170000,
+    "end": 180000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-170000-180000-9cd6040c_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-170000-180000-9cd6040c_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-170000-180000-9cd6040c_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-170000-180000-9cd6040c.ebp"
+    }
+  },
+  {
+    "id": "58929-2-180000-190000-424e292d",
+    "start": 180000,
+    "end": 190000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-180000-190000-424e292d_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-180000-190000-424e292d_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-180000-190000-424e292d_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-180000-190000-424e292d.ebp"
+    }
+  },
+  {
+    "id": "58929-2-190000-200000-7d3faa4c",
+    "start": 190000,
+    "end": 200000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-190000-200000-7d3faa4c_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-190000-200000-7d3faa4c_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-190000-200000-7d3faa4c_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-190000-200000-7d3faa4c.ebp"
+    }
+  },
+  {
+    "id": "58929-2-200000-210000-63d31383",
+    "start": 200000,
+    "end": 210000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-200000-210000-63d31383_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-200000-210000-63d31383_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-200000-210000-63d31383_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-200000-210000-63d31383.ebp"
+    }
+  },
+  {
+    "id": "58929-2-210000-220000-d04bfe25",
+    "start": 210000,
+    "end": 220000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-210000-220000-d04bfe25_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-210000-220000-d04bfe25_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-210000-220000-d04bfe25_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-210000-220000-d04bfe25.ebp"
+    }
+  },
+  {
+    "id": "58929-2-220000-230000-dea93511",
+    "start": 220000,
+    "end": 230000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-220000-230000-dea93511_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-220000-230000-dea93511_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-220000-230000-dea93511_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-220000-230000-dea93511.ebp"
+    }
+  },
+  {
+    "id": "58929-2-230000-240000-f7aa94e4",
+    "start": 230000,
+    "end": 240000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-230000-240000-f7aa94e4_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-230000-240000-f7aa94e4_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-230000-240000-f7aa94e4_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-230000-240000-f7aa94e4.ebp"
+    }
+  },
+  {
+    "id": "58929-2-240000-250000-e6e467d2",
+    "start": 240000,
+    "end": 250000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-240000-250000-e6e467d2_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-240000-250000-e6e467d2_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-240000-250000-e6e467d2_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-240000-250000-e6e467d2.ebp"
+    }
+  },
+  {
+    "id": "58929-2-250000-260000-0fa94993",
+    "start": 250000,
+    "end": 260000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-250000-260000-0fa94993_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-250000-260000-0fa94993_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-250000-260000-0fa94993_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-250000-260000-0fa94993.ebp"
+    }
+  },
+  {
+    "id": "58929-2-260000-270000-dfd47d6a",
+    "start": 260000,
+    "end": 270000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-260000-270000-dfd47d6a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-260000-270000-dfd47d6a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-260000-270000-dfd47d6a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-260000-270000-dfd47d6a.ebp"
+    }
+  },
+  {
+    "id": "58929-2-270000-280000-85cb8ea2",
+    "start": 270000,
+    "end": 280000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-270000-280000-85cb8ea2_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-270000-280000-85cb8ea2_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-270000-280000-85cb8ea2_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-270000-280000-85cb8ea2.ebp"
+    }
+  },
+  {
+    "id": "58929-2-280000-290000-28373e7b",
+    "start": 280000,
+    "end": 290000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-280000-290000-28373e7b_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-280000-290000-28373e7b_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-280000-290000-28373e7b_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-280000-290000-28373e7b.ebp"
+    }
+  },
+  {
+    "id": "58929-2-290000-300000-d7aa7a70",
+    "start": 290000,
+    "end": 300000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-290000-300000-d7aa7a70_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-290000-300000-d7aa7a70_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-290000-300000-d7aa7a70_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-290000-300000-d7aa7a70.ebp"
+    }
+  },
+  {
+    "id": "58929-2-300000-310000-93dda132",
+    "start": 300000,
+    "end": 310000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-300000-310000-93dda132_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-300000-310000-93dda132_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-300000-310000-93dda132_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-300000-310000-93dda132.ebp"
+    }
+  },
+  {
+    "id": "58929-2-310000-320000-0d163b07",
+    "start": 310000,
+    "end": 320000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-310000-320000-0d163b07_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-310000-320000-0d163b07_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-310000-320000-0d163b07_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-310000-320000-0d163b07.ebp"
+    }
+  },
+  {
+    "id": "58929-2-320000-330000-1fb4a3c4",
+    "start": 320000,
+    "end": 330000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-320000-330000-1fb4a3c4_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-320000-330000-1fb4a3c4_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-320000-330000-1fb4a3c4_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-320000-330000-1fb4a3c4.ebp"
+    }
+  },
+  {
+    "id": "58929-2-330000-340000-c4101fd0",
+    "start": 330000,
+    "end": 340000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-330000-340000-c4101fd0_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-330000-340000-c4101fd0_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-330000-340000-c4101fd0_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-330000-340000-c4101fd0.ebp"
+    }
+  },
+  {
+    "id": "58929-2-340000-350000-eda75f70",
+    "start": 340000,
+    "end": 350000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-340000-350000-eda75f70_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-340000-350000-eda75f70_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-340000-350000-eda75f70_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-340000-350000-eda75f70.ebp"
+    }
+  },
+  {
+    "id": "58929-2-350000-360000-44e56073",
+    "start": 350000,
+    "end": 360000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-350000-360000-44e56073_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-350000-360000-44e56073_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-350000-360000-44e56073_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-350000-360000-44e56073.ebp"
+    }
+  },
+  {
+    "id": "58929-2-360000-370000-2424deef",
+    "start": 360000,
+    "end": 370000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-360000-370000-2424deef_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-360000-370000-2424deef_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-360000-370000-2424deef_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-360000-370000-2424deef.ebp"
+    }
+  },
+  {
+    "id": "58929-2-370000-380000-9a46bcec",
+    "start": 370000,
+    "end": 380000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-370000-380000-9a46bcec_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-370000-380000-9a46bcec_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-370000-380000-9a46bcec_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-370000-380000-9a46bcec.ebp"
+    }
+  },
+  {
+    "id": "58929-2-380000-390000-1476ca47",
+    "start": 380000,
+    "end": 390000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-380000-390000-1476ca47_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-380000-390000-1476ca47_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-380000-390000-1476ca47_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-380000-390000-1476ca47.ebp"
+    }
+  },
+  {
+    "id": "58929-2-390000-400000-47fcf5cb",
+    "start": 390000,
+    "end": 400000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-390000-400000-47fcf5cb_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-390000-400000-47fcf5cb_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-390000-400000-47fcf5cb_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-390000-400000-47fcf5cb.ebp"
+    }
+  },
+  {
+    "id": "58929-2-400000-410000-f5a3f989",
+    "start": 400000,
+    "end": 410000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-400000-410000-f5a3f989_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-400000-410000-f5a3f989_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-400000-410000-f5a3f989_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-400000-410000-f5a3f989.ebp"
+    }
+  },
+  {
+    "id": "58929-2-410000-420000-6e181e85",
+    "start": 410000,
+    "end": 420000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-410000-420000-6e181e85_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-410000-420000-6e181e85_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-410000-420000-6e181e85_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-410000-420000-6e181e85.ebp"
+    }
+  },
+  {
+    "id": "58929-2-420000-430000-c117de97",
+    "start": 420000,
+    "end": 430000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-420000-430000-c117de97_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-420000-430000-c117de97_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-420000-430000-c117de97_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-420000-430000-c117de97.ebp"
+    }
+  },
+  {
+    "id": "58929-2-430000-440000-d58d416f",
+    "start": 430000,
+    "end": 440000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-430000-440000-d58d416f_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-430000-440000-d58d416f_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-430000-440000-d58d416f_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-430000-440000-d58d416f.ebp"
+    }
+  },
+  {
+    "id": "58929-2-440000-450000-9b295a2a",
+    "start": 440000,
+    "end": 450000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-440000-450000-9b295a2a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-440000-450000-9b295a2a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-440000-450000-9b295a2a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-440000-450000-9b295a2a.ebp"
+    }
+  },
+  {
+    "id": "58929-2-450000-460000-ce73670c",
+    "start": 450000,
+    "end": 460000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-450000-460000-ce73670c_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-450000-460000-ce73670c_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-450000-460000-ce73670c_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-450000-460000-ce73670c.ebp"
+    }
+  },
+  {
+    "id": "58929-2-460000-470000-746d6e12",
+    "start": 460000,
+    "end": 470000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-460000-470000-746d6e12_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-460000-470000-746d6e12_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-460000-470000-746d6e12_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-460000-470000-746d6e12.ebp"
+    }
+  },
+  {
+    "id": "58929-2-470000-480000-2b5dec2a",
+    "start": 470000,
+    "end": 480000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-470000-480000-2b5dec2a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-470000-480000-2b5dec2a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-470000-480000-2b5dec2a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-470000-480000-2b5dec2a.ebp"
+    }
+  },
+  {
+    "id": "58929-2-480000-490000-a57c4fe2",
+    "start": 480000,
+    "end": 490000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-480000-490000-a57c4fe2_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-480000-490000-a57c4fe2_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-480000-490000-a57c4fe2_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-480000-490000-a57c4fe2.ebp"
+    }
+  },
+  {
+    "id": "58929-2-490000-500000-4881649d",
+    "start": 490000,
+    "end": 500000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-490000-500000-4881649d_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-490000-500000-4881649d_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-490000-500000-4881649d_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-490000-500000-4881649d.ebp"
+    }
+  },
+  {
+    "id": "58929-2-500000-510000-bc721b94",
+    "start": 500000,
+    "end": 510000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-500000-510000-bc721b94_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-500000-510000-bc721b94_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-500000-510000-bc721b94_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-500000-510000-bc721b94.ebp"
+    }
+  },
+  {
+    "id": "58929-2-510000-520000-a96ba2dd",
+    "start": 510000,
+    "end": 520000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-510000-520000-a96ba2dd_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-510000-520000-a96ba2dd_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-510000-520000-a96ba2dd_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-510000-520000-a96ba2dd.ebp"
+    }
+  },
+  {
+    "id": "58929-2-520000-530000-48848c22",
+    "start": 520000,
+    "end": 530000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-520000-530000-48848c22_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-520000-530000-48848c22_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-520000-530000-48848c22_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-520000-530000-48848c22.ebp"
+    }
+  },
+  {
+    "id": "58929-2-530000-540000-25fb8a4f",
+    "start": 530000,
+    "end": 540000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-530000-540000-25fb8a4f_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-530000-540000-25fb8a4f_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-530000-540000-25fb8a4f_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-530000-540000-25fb8a4f.ebp"
+    }
+  },
+  {
+    "id": "58929-2-540000-550000-ab4220c0",
+    "start": 540000,
+    "end": 550000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-540000-550000-ab4220c0_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-540000-550000-ab4220c0_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-540000-550000-ab4220c0_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-540000-550000-ab4220c0.ebp"
+    }
+  },
+  {
+    "id": "58929-2-550000-560000-ec49cd7c",
+    "start": 550000,
+    "end": 560000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-550000-560000-ec49cd7c_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-550000-560000-ec49cd7c_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-550000-560000-ec49cd7c_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-550000-560000-ec49cd7c.ebp"
+    }
+  },
+  {
+    "id": "58929-2-560000-570000-30b8b201",
+    "start": 560000,
+    "end": 570000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-560000-570000-30b8b201_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-560000-570000-30b8b201_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-560000-570000-30b8b201_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-560000-570000-30b8b201.ebp"
+    }
+  },
+  {
+    "id": "58929-2-570000-580000-468fd1fe",
+    "start": 570000,
+    "end": 580000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-570000-580000-468fd1fe_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-570000-580000-468fd1fe_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-570000-580000-468fd1fe_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-570000-580000-468fd1fe.ebp"
+    }
+  },
+  {
+    "id": "58929-2-580000-590000-cc1ddf34",
+    "start": 580000,
+    "end": 590000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-580000-590000-cc1ddf34_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-580000-590000-cc1ddf34_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-580000-590000-cc1ddf34_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-580000-590000-cc1ddf34.ebp"
+    }
+  },
+  {
+    "id": "58929-2-590000-600000-5857d3fa",
+    "start": 590000,
+    "end": 600000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-590000-600000-5857d3fa_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-590000-600000-5857d3fa_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-590000-600000-5857d3fa_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-590000-600000-5857d3fa.ebp"
+    }
+  },
+  {
+    "id": "58929-2-600000-610000-7c38274c",
+    "start": 600000,
+    "end": 610000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-600000-610000-7c38274c_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-600000-610000-7c38274c_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-600000-610000-7c38274c_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-600000-610000-7c38274c.ebp"
+    }
+  },
+  {
+    "id": "58929-2-610000-620000-6a4886b7",
+    "start": 610000,
+    "end": 620000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-610000-620000-6a4886b7_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-610000-620000-6a4886b7_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-610000-620000-6a4886b7_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-610000-620000-6a4886b7.ebp"
+    }
+  },
+  {
+    "id": "58929-2-620000-630000-9ad9de0a",
+    "start": 620000,
+    "end": 630000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-620000-630000-9ad9de0a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-620000-630000-9ad9de0a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-620000-630000-9ad9de0a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-620000-630000-9ad9de0a.ebp"
+    }
+  },
+  {
+    "id": "58929-2-630000-640000-69a3ce1c",
+    "start": 630000,
+    "end": 640000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-630000-640000-69a3ce1c_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-630000-640000-69a3ce1c_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-630000-640000-69a3ce1c_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-630000-640000-69a3ce1c.ebp"
+    }
+  },
+  {
+    "id": "58929-2-640000-650000-85504e0d",
+    "start": 640000,
+    "end": 650000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-640000-650000-85504e0d_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-640000-650000-85504e0d_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-640000-650000-85504e0d_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-640000-650000-85504e0d.ebp"
+    }
+  },
+  {
+    "id": "58929-2-650000-660000-12b819fb",
+    "start": 650000,
+    "end": 660000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-650000-660000-12b819fb_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-650000-660000-12b819fb_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-650000-660000-12b819fb_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004327@main/the_ghost_in_the_shell/ep_2/58929-2-650000-660000-12b819fb.ebp"
+    }
+  }
+]
