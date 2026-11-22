@@ -1,0 +1,70 @@
+{
+  "id": 266,
+  "slug": "bleach_thousand_year_blood_war_the_calamity",
+  "title": "BLEACH: Thousand-Year Blood War - The Calamity",
+  "title_english": "BLEACH: Thousand-Year Blood War - The Calamity",
+  "title_japanese": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+  "mal_id": 60636,
+  "poster_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg",
+  "description": "",
+  "status": "PROCESSING",
+  "priority": 4,
+  "visit_count": 0,
+  "download_count": 0,
+  "is_featured": false,
+  "updated_at": "2026-11-22T04:51:53.521Z",
+  "cold_backup": [],
+  "name": "bleach_thousand_year_blood_war_the_calamity",
+  "episodes": [
+    {
+      "id": 3124,
+      "number": 1,
+      "title": "Episode 1"
+    },
+    {
+      "id": 3125,
+      "number": 2,
+      "title": "Episode 2"
+    },
+    {
+      "id": 3126,
+      "number": 3,
+      "title": "Episode 3"
+    },
+    {
+      "id": 3127,
+      "number": 4,
+      "title": "Episode 4"
+    },
+    {
+      "id": 3128,
+      "number": 5,
+      "title": "Episode 5"
+    },
+    {
+      "id": 3129,
+      "number": 6,
+      "title": "Episode 6"
+    },
+    {
+      "id": 3130,
+      "number": 7,
+      "title": "Episode 7"
+    },
+    {
+      "id": 3131,
+      "number": 8,
+      "title": "Episode 8"
+    },
+    {
+      "id": 3132,
+      "number": 9,
+      "title": "Episode 9"
+    },
+    {
+      "id": 3133,
+      "number": 10,
+      "title": "Episode 10"
+    }
+  ]
+}
