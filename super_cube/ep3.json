@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "60057-3-1110000-1120000-6f1ae271",
+    "start": 1110000,
+    "end": 1120000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004418@main/super_cube/ep_3/60057-3-1110000-1120000-6f1ae271_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004418@main/super_cube/ep_3/60057-3-1110000-1120000-6f1ae271_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004418@main/super_cube/ep_3/60057-3-1110000-1120000-6f1ae271_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004418@main/super_cube/ep_3/60057-3-1110000-1120000-6f1ae271.ebp"
+    }
+  },
+  {
+    "id": "60057-3-1120000-1130000-768326b0",
+    "start": 1120000,
+    "end": 1130000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004418@main/super_cube/ep_3/60057-3-1120000-1130000-768326b0_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004418@main/super_cube/ep_3/60057-3-1120000-1130000-768326b0_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004418@main/super_cube/ep_3/60057-3-1120000-1130000-768326b0_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004418@main/super_cube/ep_3/60057-3-1120000-1130000-768326b0.ebp"
+    }
+  }
+]
