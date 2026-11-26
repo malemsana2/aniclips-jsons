@@ -1,1 +1,1382 @@
-[]
+[
+  {
+    "id": "60057-5-0-10000-5cdbcb52",
+    "start": 0,
+    "end": 10000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-0-10000-5cdbcb52_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-0-10000-5cdbcb52_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-0-10000-5cdbcb52_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-0-10000-5cdbcb52.ebp"
+    }
+  },
+  {
+    "id": "60057-5-10000-20000-c04bf462",
+    "start": 10000,
+    "end": 20000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-10000-20000-c04bf462_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-10000-20000-c04bf462_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-10000-20000-c04bf462_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-10000-20000-c04bf462.ebp"
+    }
+  },
+  {
+    "id": "60057-5-20000-30000-e6b375e2",
+    "start": 20000,
+    "end": 30000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-20000-30000-e6b375e2_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-20000-30000-e6b375e2_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-20000-30000-e6b375e2_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-20000-30000-e6b375e2.ebp"
+    }
+  },
+  {
+    "id": "60057-5-30000-40000-75f070b0",
+    "start": 30000,
+    "end": 40000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-30000-40000-75f070b0_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-30000-40000-75f070b0_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-30000-40000-75f070b0_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-30000-40000-75f070b0.ebp"
+    }
+  },
+  {
+    "id": "60057-5-40000-50000-dbdabdbb",
+    "start": 40000,
+    "end": 50000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-40000-50000-dbdabdbb_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-40000-50000-dbdabdbb_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-40000-50000-dbdabdbb_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-40000-50000-dbdabdbb.ebp"
+    }
+  },
+  {
+    "id": "60057-5-50000-60000-017ad0ee",
+    "start": 50000,
+    "end": 60000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-50000-60000-017ad0ee_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-50000-60000-017ad0ee_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-50000-60000-017ad0ee_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-50000-60000-017ad0ee.ebp"
+    }
+  },
+  {
+    "id": "60057-5-60000-70000-4fd58ed1",
+    "start": 60000,
+    "end": 70000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-60000-70000-4fd58ed1_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-60000-70000-4fd58ed1_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-60000-70000-4fd58ed1_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-60000-70000-4fd58ed1.ebp"
+    }
+  },
+  {
+    "id": "60057-5-70000-80000-8afdb1ef",
+    "start": 70000,
+    "end": 80000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-70000-80000-8afdb1ef_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-70000-80000-8afdb1ef_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-70000-80000-8afdb1ef_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-70000-80000-8afdb1ef.ebp"
+    }
+  },
+  {
+    "id": "60057-5-80000-90000-3904b6bf",
+    "start": 80000,
+    "end": 90000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-80000-90000-3904b6bf_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-80000-90000-3904b6bf_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-80000-90000-3904b6bf_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-80000-90000-3904b6bf.ebp"
+    }
+  },
+  {
+    "id": "60057-5-90000-100000-03081070",
+    "start": 90000,
+    "end": 100000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-90000-100000-03081070_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-90000-100000-03081070_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-90000-100000-03081070_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-90000-100000-03081070.ebp"
+    }
+  },
+  {
+    "id": "60057-5-100000-110000-70fe3653",
+    "start": 100000,
+    "end": 110000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-100000-110000-70fe3653_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-100000-110000-70fe3653_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-100000-110000-70fe3653_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-100000-110000-70fe3653.ebp"
+    }
+  },
+  {
+    "id": "60057-5-110000-120000-64605304",
+    "start": 110000,
+    "end": 120000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-110000-120000-64605304_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-110000-120000-64605304_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-110000-120000-64605304_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-110000-120000-64605304.ebp"
+    }
+  },
+  {
+    "id": "60057-5-120000-130000-2df100c6",
+    "start": 120000,
+    "end": 130000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-120000-130000-2df100c6_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-120000-130000-2df100c6_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-120000-130000-2df100c6_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-120000-130000-2df100c6.ebp"
+    }
+  },
+  {
+    "id": "60057-5-130000-140000-4ba101f4",
+    "start": 130000,
+    "end": 140000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-130000-140000-4ba101f4_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-130000-140000-4ba101f4_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-130000-140000-4ba101f4_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-130000-140000-4ba101f4.ebp"
+    }
+  },
+  {
+    "id": "60057-5-140000-150000-f504332a",
+    "start": 140000,
+    "end": 150000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-140000-150000-f504332a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-140000-150000-f504332a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-140000-150000-f504332a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-140000-150000-f504332a.ebp"
+    }
+  },
+  {
+    "id": "60057-5-150000-160000-4eb45c8e",
+    "start": 150000,
+    "end": 160000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-150000-160000-4eb45c8e_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-150000-160000-4eb45c8e_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-150000-160000-4eb45c8e_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-150000-160000-4eb45c8e.ebp"
+    }
+  },
+  {
+    "id": "60057-5-160000-170000-b9ab7abd",
+    "start": 160000,
+    "end": 170000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-160000-170000-b9ab7abd_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-160000-170000-b9ab7abd_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-160000-170000-b9ab7abd_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-160000-170000-b9ab7abd.ebp"
+    }
+  },
+  {
+    "id": "60057-5-170000-180000-4998888a",
+    "start": 170000,
+    "end": 180000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-170000-180000-4998888a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-170000-180000-4998888a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-170000-180000-4998888a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-170000-180000-4998888a.ebp"
+    }
+  },
+  {
+    "id": "60057-5-180000-190000-8a24eba7",
+    "start": 180000,
+    "end": 190000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-180000-190000-8a24eba7_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-180000-190000-8a24eba7_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-180000-190000-8a24eba7_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-180000-190000-8a24eba7.ebp"
+    }
+  },
+  {
+    "id": "60057-5-190000-200000-03e9f539",
+    "start": 190000,
+    "end": 200000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-190000-200000-03e9f539_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-190000-200000-03e9f539_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-190000-200000-03e9f539_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-190000-200000-03e9f539.ebp"
+    }
+  },
+  {
+    "id": "60057-5-200000-210000-07f842c1",
+    "start": 200000,
+    "end": 210000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-200000-210000-07f842c1_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-200000-210000-07f842c1_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-200000-210000-07f842c1_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-200000-210000-07f842c1.ebp"
+    }
+  },
+  {
+    "id": "60057-5-210000-220000-c718e091",
+    "start": 210000,
+    "end": 220000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-210000-220000-c718e091_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-210000-220000-c718e091_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-210000-220000-c718e091_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-210000-220000-c718e091.ebp"
+    }
+  },
+  {
+    "id": "60057-5-220000-230000-853c2be3",
+    "start": 220000,
+    "end": 230000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-220000-230000-853c2be3_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-220000-230000-853c2be3_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-220000-230000-853c2be3_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-220000-230000-853c2be3.ebp"
+    }
+  },
+  {
+    "id": "60057-5-230000-240000-62b006ac",
+    "start": 230000,
+    "end": 240000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-230000-240000-62b006ac_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-230000-240000-62b006ac_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-230000-240000-62b006ac_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-230000-240000-62b006ac.ebp"
+    }
+  },
+  {
+    "id": "60057-5-240000-250000-c6905daf",
+    "start": 240000,
+    "end": 250000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-240000-250000-c6905daf_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-240000-250000-c6905daf_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-240000-250000-c6905daf_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-240000-250000-c6905daf.ebp"
+    }
+  },
+  {
+    "id": "60057-5-250000-260000-ad6d85b8",
+    "start": 250000,
+    "end": 260000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-250000-260000-ad6d85b8_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-250000-260000-ad6d85b8_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-250000-260000-ad6d85b8_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-250000-260000-ad6d85b8.ebp"
+    }
+  },
+  {
+    "id": "60057-5-260000-270000-5d3bd605",
+    "start": 260000,
+    "end": 270000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-260000-270000-5d3bd605_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-260000-270000-5d3bd605_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-260000-270000-5d3bd605_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-260000-270000-5d3bd605.ebp"
+    }
+  },
+  {
+    "id": "60057-5-270000-280000-c2b1f08e",
+    "start": 270000,
+    "end": 280000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-270000-280000-c2b1f08e_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-270000-280000-c2b1f08e_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-270000-280000-c2b1f08e_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-270000-280000-c2b1f08e.ebp"
+    }
+  },
+  {
+    "id": "60057-5-280000-290000-46dcd24a",
+    "start": 280000,
+    "end": 290000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-280000-290000-46dcd24a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-280000-290000-46dcd24a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-280000-290000-46dcd24a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-280000-290000-46dcd24a.ebp"
+    }
+  },
+  {
+    "id": "60057-5-290000-300000-94a5dbb6",
+    "start": 290000,
+    "end": 300000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-290000-300000-94a5dbb6_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-290000-300000-94a5dbb6_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-290000-300000-94a5dbb6_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-290000-300000-94a5dbb6.ebp"
+    }
+  },
+  {
+    "id": "60057-5-300000-310000-f3c5fceb",
+    "start": 300000,
+    "end": 310000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-300000-310000-f3c5fceb_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-300000-310000-f3c5fceb_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-300000-310000-f3c5fceb_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-300000-310000-f3c5fceb.ebp"
+    }
+  },
+  {
+    "id": "60057-5-310000-320000-aab1e2a3",
+    "start": 310000,
+    "end": 320000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-310000-320000-aab1e2a3_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-310000-320000-aab1e2a3_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-310000-320000-aab1e2a3_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-310000-320000-aab1e2a3.ebp"
+    }
+  },
+  {
+    "id": "60057-5-320000-330000-972bddf5",
+    "start": 320000,
+    "end": 330000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-320000-330000-972bddf5_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-320000-330000-972bddf5_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-320000-330000-972bddf5_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-320000-330000-972bddf5.ebp"
+    }
+  },
+  {
+    "id": "60057-5-330000-340000-51510853",
+    "start": 330000,
+    "end": 340000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-330000-340000-51510853_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-330000-340000-51510853_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-330000-340000-51510853_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-330000-340000-51510853.ebp"
+    }
+  },
+  {
+    "id": "60057-5-340000-350000-9f8cc125",
+    "start": 340000,
+    "end": 350000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-340000-350000-9f8cc125_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-340000-350000-9f8cc125_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-340000-350000-9f8cc125_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-340000-350000-9f8cc125.ebp"
+    }
+  },
+  {
+    "id": "60057-5-350000-360000-5cc05397",
+    "start": 350000,
+    "end": 360000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-350000-360000-5cc05397_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-350000-360000-5cc05397_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-350000-360000-5cc05397_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-350000-360000-5cc05397.ebp"
+    }
+  },
+  {
+    "id": "60057-5-360000-370000-b956b815",
+    "start": 360000,
+    "end": 370000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-360000-370000-b956b815_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-360000-370000-b956b815_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-360000-370000-b956b815_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-360000-370000-b956b815.ebp"
+    }
+  },
+  {
+    "id": "60057-5-370000-380000-18e03539",
+    "start": 370000,
+    "end": 380000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-370000-380000-18e03539_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-370000-380000-18e03539_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-370000-380000-18e03539_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-370000-380000-18e03539.ebp"
+    }
+  },
+  {
+    "id": "60057-5-380000-390000-4ad38e1b",
+    "start": 380000,
+    "end": 390000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-380000-390000-4ad38e1b_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-380000-390000-4ad38e1b_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-380000-390000-4ad38e1b_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-380000-390000-4ad38e1b.ebp"
+    }
+  },
+  {
+    "id": "60057-5-390000-400000-7d98a9d0",
+    "start": 390000,
+    "end": 400000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-390000-400000-7d98a9d0_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-390000-400000-7d98a9d0_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-390000-400000-7d98a9d0_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-390000-400000-7d98a9d0.ebp"
+    }
+  },
+  {
+    "id": "60057-5-400000-410000-1bf7d5e5",
+    "start": 400000,
+    "end": 410000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-400000-410000-1bf7d5e5_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-400000-410000-1bf7d5e5_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-400000-410000-1bf7d5e5_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-400000-410000-1bf7d5e5.ebp"
+    }
+  },
+  {
+    "id": "60057-5-410000-420000-84e3a08e",
+    "start": 410000,
+    "end": 420000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-410000-420000-84e3a08e_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-410000-420000-84e3a08e_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-410000-420000-84e3a08e_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-410000-420000-84e3a08e.ebp"
+    }
+  },
+  {
+    "id": "60057-5-420000-430000-74677e17",
+    "start": 420000,
+    "end": 430000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-420000-430000-74677e17_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-420000-430000-74677e17_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-420000-430000-74677e17_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-420000-430000-74677e17.ebp"
+    }
+  },
+  {
+    "id": "60057-5-430000-440000-23a5326f",
+    "start": 430000,
+    "end": 440000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-430000-440000-23a5326f_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-430000-440000-23a5326f_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-430000-440000-23a5326f_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-430000-440000-23a5326f.ebp"
+    }
+  },
+  {
+    "id": "60057-5-440000-450000-9323033a",
+    "start": 440000,
+    "end": 450000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-440000-450000-9323033a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-440000-450000-9323033a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-440000-450000-9323033a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-440000-450000-9323033a.ebp"
+    }
+  },
+  {
+    "id": "60057-5-450000-460000-f6183fa4",
+    "start": 450000,
+    "end": 460000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-450000-460000-f6183fa4_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-450000-460000-f6183fa4_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-450000-460000-f6183fa4_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-450000-460000-f6183fa4.ebp"
+    }
+  },
+  {
+    "id": "60057-5-460000-470000-68d59e13",
+    "start": 460000,
+    "end": 470000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-460000-470000-68d59e13_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-460000-470000-68d59e13_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-460000-470000-68d59e13_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-460000-470000-68d59e13.ebp"
+    }
+  },
+  {
+    "id": "60057-5-470000-480000-04727c31",
+    "start": 470000,
+    "end": 480000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-470000-480000-04727c31_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-470000-480000-04727c31_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-470000-480000-04727c31_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-470000-480000-04727c31.ebp"
+    }
+  },
+  {
+    "id": "60057-5-480000-490000-f063a30a",
+    "start": 480000,
+    "end": 490000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-480000-490000-f063a30a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-480000-490000-f063a30a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-480000-490000-f063a30a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-480000-490000-f063a30a.ebp"
+    }
+  },
+  {
+    "id": "60057-5-490000-500000-e8bfa41b",
+    "start": 490000,
+    "end": 500000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-490000-500000-e8bfa41b_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-490000-500000-e8bfa41b_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-490000-500000-e8bfa41b_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-490000-500000-e8bfa41b.ebp"
+    }
+  },
+  {
+    "id": "60057-5-500000-510000-56f1a161",
+    "start": 500000,
+    "end": 510000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-500000-510000-56f1a161_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-500000-510000-56f1a161_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-500000-510000-56f1a161_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-500000-510000-56f1a161.ebp"
+    }
+  },
+  {
+    "id": "60057-5-510000-520000-9b1397a0",
+    "start": 510000,
+    "end": 520000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-510000-520000-9b1397a0_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-510000-520000-9b1397a0_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-510000-520000-9b1397a0_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-510000-520000-9b1397a0.ebp"
+    }
+  },
+  {
+    "id": "60057-5-520000-530000-b9ae480c",
+    "start": 520000,
+    "end": 530000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-520000-530000-b9ae480c_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-520000-530000-b9ae480c_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-520000-530000-b9ae480c_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-520000-530000-b9ae480c.ebp"
+    }
+  },
+  {
+    "id": "60057-5-530000-540000-86051260",
+    "start": 530000,
+    "end": 540000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-530000-540000-86051260_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-530000-540000-86051260_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-530000-540000-86051260_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-530000-540000-86051260.ebp"
+    }
+  },
+  {
+    "id": "60057-5-540000-550000-930395d9",
+    "start": 540000,
+    "end": 550000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-540000-550000-930395d9_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-540000-550000-930395d9_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-540000-550000-930395d9_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-540000-550000-930395d9.ebp"
+    }
+  },
+  {
+    "id": "60057-5-550000-560000-2c56ce7f",
+    "start": 550000,
+    "end": 560000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-550000-560000-2c56ce7f_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-550000-560000-2c56ce7f_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-550000-560000-2c56ce7f_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-550000-560000-2c56ce7f.ebp"
+    }
+  },
+  {
+    "id": "60057-5-560000-570000-85d49f1b",
+    "start": 560000,
+    "end": 570000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-560000-570000-85d49f1b_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-560000-570000-85d49f1b_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-560000-570000-85d49f1b_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-560000-570000-85d49f1b.ebp"
+    }
+  },
+  {
+    "id": "60057-5-570000-580000-a13d76fb",
+    "start": 570000,
+    "end": 580000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-570000-580000-a13d76fb_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-570000-580000-a13d76fb_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-570000-580000-a13d76fb_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-570000-580000-a13d76fb.ebp"
+    }
+  },
+  {
+    "id": "60057-5-580000-590000-55af1189",
+    "start": 580000,
+    "end": 590000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-580000-590000-55af1189_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-580000-590000-55af1189_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-580000-590000-55af1189_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-580000-590000-55af1189.ebp"
+    }
+  },
+  {
+    "id": "60057-5-590000-600000-5165a76b",
+    "start": 590000,
+    "end": 600000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-590000-600000-5165a76b_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-590000-600000-5165a76b_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-590000-600000-5165a76b_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-590000-600000-5165a76b.ebp"
+    }
+  },
+  {
+    "id": "60057-5-600000-610000-31ef2ab2",
+    "start": 600000,
+    "end": 610000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-600000-610000-31ef2ab2_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-600000-610000-31ef2ab2_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-600000-610000-31ef2ab2_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-600000-610000-31ef2ab2.ebp"
+    }
+  },
+  {
+    "id": "60057-5-610000-620000-0be0b9ef",
+    "start": 610000,
+    "end": 620000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-610000-620000-0be0b9ef_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-610000-620000-0be0b9ef_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-610000-620000-0be0b9ef_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-610000-620000-0be0b9ef.ebp"
+    }
+  },
+  {
+    "id": "60057-5-620000-630000-417a89ea",
+    "start": 620000,
+    "end": 630000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-620000-630000-417a89ea_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-620000-630000-417a89ea_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-620000-630000-417a89ea_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-620000-630000-417a89ea.ebp"
+    }
+  },
+  {
+    "id": "60057-5-630000-640000-425f621f",
+    "start": 630000,
+    "end": 640000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-630000-640000-425f621f_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-630000-640000-425f621f_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-630000-640000-425f621f_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-630000-640000-425f621f.ebp"
+    }
+  },
+  {
+    "id": "60057-5-640000-650000-5cbc7844",
+    "start": 640000,
+    "end": 650000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-640000-650000-5cbc7844_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-640000-650000-5cbc7844_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-640000-650000-5cbc7844_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-640000-650000-5cbc7844.ebp"
+    }
+  },
+  {
+    "id": "60057-5-650000-660000-2f898f6d",
+    "start": 650000,
+    "end": 660000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-650000-660000-2f898f6d_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-650000-660000-2f898f6d_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-650000-660000-2f898f6d_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-650000-660000-2f898f6d.ebp"
+    }
+  },
+  {
+    "id": "60057-5-660000-670000-e9ecf8cd",
+    "start": 660000,
+    "end": 670000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-660000-670000-e9ecf8cd_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-660000-670000-e9ecf8cd_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-660000-670000-e9ecf8cd_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-660000-670000-e9ecf8cd.ebp"
+    }
+  },
+  {
+    "id": "60057-5-670000-680000-ea84aa26",
+    "start": 670000,
+    "end": 680000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-670000-680000-ea84aa26_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-670000-680000-ea84aa26_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-670000-680000-ea84aa26_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-670000-680000-ea84aa26.ebp"
+    }
+  },
+  {
+    "id": "60057-5-680000-690000-04faf33b",
+    "start": 680000,
+    "end": 690000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-680000-690000-04faf33b_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-680000-690000-04faf33b_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-680000-690000-04faf33b_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-680000-690000-04faf33b.ebp"
+    }
+  },
+  {
+    "id": "60057-5-690000-700000-c5afed19",
+    "start": 690000,
+    "end": 700000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-690000-700000-c5afed19_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-690000-700000-c5afed19_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-690000-700000-c5afed19_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-690000-700000-c5afed19.ebp"
+    }
+  },
+  {
+    "id": "60057-5-700000-710000-3a3ee184",
+    "start": 700000,
+    "end": 710000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-700000-710000-3a3ee184_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-700000-710000-3a3ee184_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-700000-710000-3a3ee184_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-700000-710000-3a3ee184.ebp"
+    }
+  },
+  {
+    "id": "60057-5-710000-720000-e8a15caa",
+    "start": 710000,
+    "end": 720000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-710000-720000-e8a15caa_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-710000-720000-e8a15caa_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-710000-720000-e8a15caa_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-710000-720000-e8a15caa.ebp"
+    }
+  },
+  {
+    "id": "60057-5-720000-730000-ab16dcdc",
+    "start": 720000,
+    "end": 730000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-720000-730000-ab16dcdc_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-720000-730000-ab16dcdc_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-720000-730000-ab16dcdc_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-720000-730000-ab16dcdc.ebp"
+    }
+  },
+  {
+    "id": "60057-5-730000-740000-733c1bcf",
+    "start": 730000,
+    "end": 740000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-730000-740000-733c1bcf_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-730000-740000-733c1bcf_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-730000-740000-733c1bcf_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-730000-740000-733c1bcf.ebp"
+    }
+  },
+  {
+    "id": "60057-5-740000-750000-c5fb7312",
+    "start": 740000,
+    "end": 750000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-740000-750000-c5fb7312_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-740000-750000-c5fb7312_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-740000-750000-c5fb7312_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-740000-750000-c5fb7312.ebp"
+    }
+  },
+  {
+    "id": "60057-5-750000-760000-20094f21",
+    "start": 750000,
+    "end": 760000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-750000-760000-20094f21_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-750000-760000-20094f21_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-750000-760000-20094f21_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-750000-760000-20094f21.ebp"
+    }
+  },
+  {
+    "id": "60057-5-760000-770000-71ea2031",
+    "start": 760000,
+    "end": 770000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-760000-770000-71ea2031_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-760000-770000-71ea2031_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-760000-770000-71ea2031_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-760000-770000-71ea2031.ebp"
+    }
+  },
+  {
+    "id": "60057-5-770000-780000-852f283a",
+    "start": 770000,
+    "end": 780000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-770000-780000-852f283a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-770000-780000-852f283a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-770000-780000-852f283a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-770000-780000-852f283a.ebp"
+    }
+  },
+  {
+    "id": "60057-5-780000-790000-eb281746",
+    "start": 780000,
+    "end": 790000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-780000-790000-eb281746_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-780000-790000-eb281746_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-780000-790000-eb281746_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-780000-790000-eb281746.ebp"
+    }
+  },
+  {
+    "id": "60057-5-790000-800000-c7470360",
+    "start": 790000,
+    "end": 800000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-790000-800000-c7470360_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-790000-800000-c7470360_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-790000-800000-c7470360_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-790000-800000-c7470360.ebp"
+    }
+  },
+  {
+    "id": "60057-5-800000-810000-d37b12ae",
+    "start": 800000,
+    "end": 810000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-800000-810000-d37b12ae_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-800000-810000-d37b12ae_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-800000-810000-d37b12ae_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-800000-810000-d37b12ae.ebp"
+    }
+  },
+  {
+    "id": "60057-5-810000-820000-d4dde643",
+    "start": 810000,
+    "end": 820000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-810000-820000-d4dde643_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-810000-820000-d4dde643_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-810000-820000-d4dde643_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-810000-820000-d4dde643.ebp"
+    }
+  },
+  {
+    "id": "60057-5-820000-830000-b9bcba0f",
+    "start": 820000,
+    "end": 830000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-820000-830000-b9bcba0f_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-820000-830000-b9bcba0f_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-820000-830000-b9bcba0f_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-820000-830000-b9bcba0f.ebp"
+    }
+  },
+  {
+    "id": "60057-5-830000-840000-c6f531df",
+    "start": 830000,
+    "end": 840000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-830000-840000-c6f531df_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-830000-840000-c6f531df_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-830000-840000-c6f531df_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-830000-840000-c6f531df.ebp"
+    }
+  },
+  {
+    "id": "60057-5-840000-850000-f1d5c60a",
+    "start": 840000,
+    "end": 850000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-840000-850000-f1d5c60a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-840000-850000-f1d5c60a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-840000-850000-f1d5c60a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-840000-850000-f1d5c60a.ebp"
+    }
+  },
+  {
+    "id": "60057-5-850000-860000-5100dd3d",
+    "start": 850000,
+    "end": 860000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-850000-860000-5100dd3d_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-850000-860000-5100dd3d_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-850000-860000-5100dd3d_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-850000-860000-5100dd3d.ebp"
+    }
+  },
+  {
+    "id": "60057-5-860000-870000-0a4f9b8f",
+    "start": 860000,
+    "end": 870000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-860000-870000-0a4f9b8f_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-860000-870000-0a4f9b8f_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-860000-870000-0a4f9b8f_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-860000-870000-0a4f9b8f.ebp"
+    }
+  },
+  {
+    "id": "60057-5-870000-880000-8a203c8e",
+    "start": 870000,
+    "end": 880000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-870000-880000-8a203c8e_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-870000-880000-8a203c8e_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-870000-880000-8a203c8e_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-870000-880000-8a203c8e.ebp"
+    }
+  },
+  {
+    "id": "60057-5-880000-890000-dd38ff57",
+    "start": 880000,
+    "end": 890000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-880000-890000-dd38ff57_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-880000-890000-dd38ff57_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-880000-890000-dd38ff57_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-880000-890000-dd38ff57.ebp"
+    }
+  },
+  {
+    "id": "60057-5-890000-900000-02cf3a53",
+    "start": 890000,
+    "end": 900000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-890000-900000-02cf3a53_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-890000-900000-02cf3a53_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-890000-900000-02cf3a53_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-890000-900000-02cf3a53.ebp"
+    }
+  },
+  {
+    "id": "60057-5-900000-910000-06e25236",
+    "start": 900000,
+    "end": 910000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-900000-910000-06e25236_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-900000-910000-06e25236_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-900000-910000-06e25236_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-900000-910000-06e25236.ebp"
+    }
+  },
+  {
+    "id": "60057-5-910000-920000-44c47c47",
+    "start": 910000,
+    "end": 920000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-910000-920000-44c47c47_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-910000-920000-44c47c47_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-910000-920000-44c47c47_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-910000-920000-44c47c47.ebp"
+    }
+  },
+  {
+    "id": "60057-5-920000-930000-6291744c",
+    "start": 920000,
+    "end": 930000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-920000-930000-6291744c_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-920000-930000-6291744c_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-920000-930000-6291744c_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-920000-930000-6291744c.ebp"
+    }
+  },
+  {
+    "id": "60057-5-930000-940000-0432a50b",
+    "start": 930000,
+    "end": 940000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-930000-940000-0432a50b_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-930000-940000-0432a50b_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-930000-940000-0432a50b_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-930000-940000-0432a50b.ebp"
+    }
+  },
+  {
+    "id": "60057-5-940000-950000-c24b9c34",
+    "start": 940000,
+    "end": 950000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-940000-950000-c24b9c34_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-940000-950000-c24b9c34_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-940000-950000-c24b9c34_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-940000-950000-c24b9c34.ebp"
+    }
+  },
+  {
+    "id": "60057-5-950000-960000-a08309eb",
+    "start": 950000,
+    "end": 960000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-950000-960000-a08309eb_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-950000-960000-a08309eb_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-950000-960000-a08309eb_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-950000-960000-a08309eb.ebp"
+    }
+  },
+  {
+    "id": "60057-5-960000-970000-6f833796",
+    "start": 960000,
+    "end": 970000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-960000-970000-6f833796_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-960000-970000-6f833796_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-960000-970000-6f833796_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-960000-970000-6f833796.ebp"
+    }
+  },
+  {
+    "id": "60057-5-970000-980000-7eb80645",
+    "start": 970000,
+    "end": 980000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-970000-980000-7eb80645_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-970000-980000-7eb80645_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-970000-980000-7eb80645_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-970000-980000-7eb80645.ebp"
+    }
+  },
+  {
+    "id": "60057-5-980000-990000-697041c6",
+    "start": 980000,
+    "end": 990000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-980000-990000-697041c6_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-980000-990000-697041c6_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-980000-990000-697041c6_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-980000-990000-697041c6.ebp"
+    }
+  },
+  {
+    "id": "60057-5-990000-1000000-d8cb562d",
+    "start": 990000,
+    "end": 1000000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-990000-1000000-d8cb562d_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-990000-1000000-d8cb562d_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-990000-1000000-d8cb562d_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004427@main/super_cube/ep_5/60057-5-990000-1000000-d8cb562d.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1000000-1010000-b08ce66a",
+    "start": 1000000,
+    "end": 1010000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1000000-1010000-b08ce66a_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1000000-1010000-b08ce66a_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1000000-1010000-b08ce66a_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1000000-1010000-b08ce66a.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1010000-1020000-95bef3d5",
+    "start": 1010000,
+    "end": 1020000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1010000-1020000-95bef3d5_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1010000-1020000-95bef3d5_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1010000-1020000-95bef3d5_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1010000-1020000-95bef3d5.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1020000-1030000-d08c1d4c",
+    "start": 1020000,
+    "end": 1030000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1020000-1030000-d08c1d4c_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1020000-1030000-d08c1d4c_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1020000-1030000-d08c1d4c_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1020000-1030000-d08c1d4c.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1030000-1040000-54e5cd02",
+    "start": 1030000,
+    "end": 1040000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1030000-1040000-54e5cd02_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1030000-1040000-54e5cd02_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1030000-1040000-54e5cd02_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1030000-1040000-54e5cd02.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1040000-1050000-5e2be6fe",
+    "start": 1040000,
+    "end": 1050000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1040000-1050000-5e2be6fe_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1040000-1050000-5e2be6fe_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1040000-1050000-5e2be6fe_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1040000-1050000-5e2be6fe.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1050000-1060000-d7284a52",
+    "start": 1050000,
+    "end": 1060000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1050000-1060000-d7284a52_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1050000-1060000-d7284a52_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1050000-1060000-d7284a52_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1050000-1060000-d7284a52.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1060000-1070000-1301c750",
+    "start": 1060000,
+    "end": 1070000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1060000-1070000-1301c750_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1060000-1070000-1301c750_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1060000-1070000-1301c750_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1060000-1070000-1301c750.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1070000-1080000-62809925",
+    "start": 1070000,
+    "end": 1080000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1070000-1080000-62809925_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1070000-1080000-62809925_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1070000-1080000-62809925_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1070000-1080000-62809925.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1080000-1090000-754e0824",
+    "start": 1080000,
+    "end": 1090000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1080000-1090000-754e0824_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1080000-1090000-754e0824_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1080000-1090000-754e0824_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1080000-1090000-754e0824.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1090000-1100000-8f2bfc1b",
+    "start": 1090000,
+    "end": 1100000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1090000-1100000-8f2bfc1b_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1090000-1100000-8f2bfc1b_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1090000-1100000-8f2bfc1b_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1090000-1100000-8f2bfc1b.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1100000-1110000-3ce436fa",
+    "start": 1100000,
+    "end": 1110000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1100000-1110000-3ce436fa_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1100000-1110000-3ce436fa_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1100000-1110000-3ce436fa_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1100000-1110000-3ce436fa.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1110000-1120000-03c432a3",
+    "start": 1110000,
+    "end": 1120000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1110000-1120000-03c432a3_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1110000-1120000-03c432a3_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1110000-1120000-03c432a3_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1110000-1120000-03c432a3.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1120000-1130000-e90ed39c",
+    "start": 1120000,
+    "end": 1130000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1120000-1130000-e90ed39c_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1120000-1130000-e90ed39c_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1120000-1130000-e90ed39c_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1120000-1130000-e90ed39c.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1130000-1140000-a9d17023",
+    "start": 1130000,
+    "end": 1140000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1130000-1140000-a9d17023_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1130000-1140000-a9d17023_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1130000-1140000-a9d17023_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1130000-1140000-a9d17023.ebp"
+    }
+  },
+  {
+    "id": "60057-5-1140000-1150000-c4950974",
+    "start": 1140000,
+    "end": 1150000,
+    "duration": 10000,
+    "sources": {
+      "hq": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1140000-1150000-c4950974_hq.bin",
+      "preview": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1140000-1150000-c4950974_prev.bin",
+      "hover": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1140000-1150000-c4950974_hover.bin",
+      "thumbnail": "https://cdn.jsdelivr.net/gh/malemsana2/aniclip-v4-storage-004428@main/super_cube/ep_5/60057-5-1140000-1150000-c4950974.ebp"
+    }
+  }
+]
